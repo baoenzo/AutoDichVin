@@ -1,0 +1,5011 @@
+Move the camera with [GamepadActionManager GamepadButtonTooltip(LS_all)]: [Conditions QuestCondition AchievedPercentage]%
+Rotate the camera with [GamepadActionManager GamepadButtonTooltip(RS_Horizontal)]: [Conditions QuestCondition AchievedPercentage]%
+Zoom in or out by holding [GamepadActionManager GamepadButtonTooltip(RS_Vertical)]: [Conditions QuestCondition AchievedPercentage]%
+Press [GamepadActionManager GamepadActionTooltip(IncreaseGameSpeed)] to increase the game's speed. Press  [GamepadActionManager GamepadActionTooltip(DecreaseGameSpeed)] to decrease it.
+Use [GamepadActionManager GamepadActionTooltip(CameraFastMove)] + [GamepadActionManager GamepadButtonTooltip(LS_all)] to move the camera much faster: [Conditions QuestCondition AchievedPercentage]%
+Press [GamepadActionManager GamepadActionTooltip(CameraNavigateToKontorOrNextOfSelection)] to jump back to your trading post<br />(Deselect any building or ship first)
+Jump between trading posts three times by pressing[GamepadActionManager GamepadActionTooltip(CameraNavigateToKontorOrNextOfSelection)] <br />(Deselect any building or ship first)
+Use [GamepadActionManager GamepadActionTooltip(CameraPitch)] + [GamepadActionManager GamepadButtonTooltip(RS_Vertical)] to tilt the camera: [Conditions QuestCondition AchievedPercentage]%
+Send the ship to the lighthouse to fetch dynamite
+Press [GamepadActionManager GamepadActionTooltip(TargetManagerPrimaryActionPress)] while hovering over your ship to select it, then press [GamepadActionManager GamepadActionTooltip(TargetManagerSecondaryActionPress)] to send it to the targeted location.
+Use [GamepadActionManager GamepadButtonTooltip(Dpad_all)] to target the dynamite on your ship. Then press [GamepadActionManager GamepadActionTooltip(ShipOMActivateItem)] to detonate it.
+With your ship selected, press [GamepadActionManager GamepadActionTooltip(TargetManagerSecondaryActionPress)] while hovering over the fish to pick them up.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+That job, can I help you with something?
+Since it is a sedentary job, you can't help but have stiff shoulders.
+We were almost out of tea for our visitors, so I bought some more!
+I'd like to ask you a few questions about that case...
+Thank you for everything.
+Regarding your recent request...
+Lately, I feel as if my body is not getting tired...
+I'm fine, thank you for your concern.
+I understand. But I can't help you with this one.
+Thanks. Please turn the receipts over to Accounting.
+Thank you. Please turn in your receipts to Accounting.
+In that case, I'll give you the information next time.
+If you are interested, I will provide you with the materials next time.
+It's my job, so thanking me is fine. But... I don't feel bad about the compliment.
+Yes, that's all I have to say about that one.
+Why don't you just rest?
+I think you just have to rest your body anyway.
+What is going on with your example?
+I'm looking to purchase a new notepad, any suggestions?
+Oh, by the way, I finished the paperwork you asked me to do.
+Was your call okay the other day?
+It makes me feel good about my job.
+For those with a closing date, next month is no problem.
+I don't enjoy my job...
+If you are there, we've already done that as of last week.
+If so, how about the notepad I am using now? It's easy to use.
+Thanks for your help. I'll check the contents later.
+Thanks for your time. I'll check the contents later.
+Thanks for your time. I'll check the contents later.
+It was all right. I explained in detail and they understood.
+I appreciate you saying so.
+I appreciate you saying so.
+I understand. I'll turn it in for next month.
+I don't know what you're talking about. You're either still going to work hard or quit your job.
+Even if you say that... I think you have to either do your best anyway, or quit for good!
+How is your work going?
+Are there any difficulties in your current job?
+It's an example case, but I just wanted to check a few things...
+I'm having a bit of trouble... With the example job...
+If you need any missing equipment, just ask.
+New products for example, please deliver on time!
+That job is hard for me...
+Steady, I think. Well, I have to admit that it's no different than usual.
+No, I'm fine. If you need anything, I'll be able to count on you.
+This needs to be confirmed by the other side, so we'll handle it over here.
+This needs to be confirmed by the other party, so we'll take care of it.
+That job is certainly complicated. I'll get it straightened out.
+It's okay. I'm checking the list of supplies.
+Yes, we always deliver on time!
+That's a very weak attitude. Well, maybe you should just throw it out.
+Then don't push it, just say no.
+I recommend that store near my office, they had a good selection.
+I have a restaurant where I enjoy good international food and I go there often!
+Do you like watching sports?
+I'm wondering about starting a new hobby... What do you think?
+You are playing the game on your phone, is it interesting?
+Have you had any hobbies since you were a child?
+I mean... Is there a way to always win at a casino?
+Heh, I see. I'll go there next time.
+Wow, that's nice, I'd like to go there too.
+I love it, especially baseball.
+I love it, especially baseball.
+I love it, especially baseball.
+I think it's good to try everything.
+I think it's interesting. And it's a good way to pass the time.
+I've always loved soccer. I still watch a lot.
+If you don't stop until you win, you'll win.
+If you don't stop until you win, you'll never win.
+I know I have to stop, but when I get stressed I end up buying a lot of clothes and shoes...
+Have you been watching that drama that's been getting a lot of attention? It's getting more and more interesting.
+A delicious-looking restaurant was opened near my office!
+I like karaoke quite a bit.
+Do you ever spend your day off in bed and just laze around?
+Do you go to a gym?
+Is there any easy way to make money...
+Ah... I understand. I, too, buy things on impulse online...
+Yes, I do watch it. I look forward to it every week too.
+I'm glad to hear that. I'll put it on my lunch list.
+That would be great to hear. I'll put it on my lunch list.
+That sounds great. I'll put it on my lunch list.
+I like karaoke, too. It feels good to sing.
+It happens sometimes... Well, it's important to get a good rest, so I don't think it's a bad idea to be lazy!
+I haven't been going through it. It's hard to keep exercising.
+It's gambling, gambling. If you win, you're a millionaire.
+I think gambling is the best way to do that.
+I enjoy sweets from convenience stores and always check to see if there are any new products!
+Speaking of which, have you visited the restaurant you mentioned earlier that you were interested in?
+Is there anything you are into these days?
+What are some ways to relieve stress?
+Do you listen to music often?
+I made a big purchase not too long ago... And I've been trying to save money lately.
+I'm not sure if I want to change jobs these days...
+I understand. I wander by on my way home from work too.
+I went there. The store was well stocked and lived up to its reputation.
+Cooking and walking.
+Cooking and walking.
+Cooking and walking.
+After all, it is alcohol. It makes me feel happy when I drink it.
+I'm listening. But I haven't kept up with the latest trends...
+That's a good thing. Saving money is important.
+Booze and cigarettes. It's refreshing.
+Alcohol and cigarettes. It's refreshing.
+Would you like to go to a restaurant with us?
+Great, I'll join you.
+I'm sorry... I can't go out with you.
+I'm a little inconvenient... Sorry.
+Okay, no problem.
+Sorry, I don't think I can make it.
+Okay, no problem.
+Sorry, I can't go.
+All right.
+I'm sorry, sir.
+Okay, I'll go out with you.
+I'm sorry, I can't go.
+Fine, I'll go out with you.
+I ain't in the mood for this.
+If you like, why don't you go to the restaurant?
+All right, let's go.
+Sorry...
+Sorry, it's a little difficult.
+All right, I'll go with you.
+Sorry, but you'll have to invite me back another time.
+All right, I'll go with you.
+Sorry, please invite me back another time.
+All right, I'll join you.
+Can we do it another time?
+Sorry, we'll do it another time.
+All right, let's go.
+I don't want to do this. I'm too tired.
+Would you like to go to a cafe if you like?
+Would you like to have a cup of tea at a cafe?
+Why don't we go to the park for a while?
+Why not take a walk in the park?
+Could you please come this way now?
+Thank you very much. We'll be waiting for you.
+... Difficult, I understand.
+We would like you to come here. Is your time OK?
+Please come with care.
+I must have been in the wrong place at the wrong time... I understand.
+I would like to ask you a few questions...
+I'm sorry, I'd like to confirm something...
+I would like to meet with you now, is that okay?
+Thank you very much. I'll be on my way soon.
+May I have a moment?
+Yes, what is it?
+Yes, what's wrong?
+What's wrong?
+Is something wrong?
+How can I help you?
+What is it?
+I'm sorry... A little better?
+You wanted to see me?
+Can I help you?
+What is it?
+Yes, what is it?
+Yes, what is it?
+What's wrong?
+Now... Are you okay?
+Yes, it's okay.
+I'm sorry... No thanks.
+Yes, I'm fine.
+I don't care.
+No, you can't.
+Yeah, it's okay.
+... Sorry.
+I'm sorry, but I can't.
+... I'm sorry.
+Yeah, man.
+I'm sorry, I can't.
+Do you have time to?
+Yes, no problem.
+Sorry, I must decline.
+Yes, no problem.
+Um... Sorry.
+No problem.
+I'm sorry, but I can't go out with you.
+No problem.
+... I'm sorry.
+No problem.
+I decline.
+... We will decline.
+No problem
+I can't go out with you.
+Would you like to have a long talk with me?
+Yes, okay.
+I'm not in the mood... Sorry.
+I'm not really in the mood to chat... Sorry.
+Yeah, no problem.
+We'll talk about it another time.
+Yeah, totally fine.
+I'm not in the mood... Sorry.
+I'm kind of... Sorry, right now.
+Yeah, no problem.
+I'm a little... Sorry about that right now.
+I'm not really in the mood to talk.
+I would like to talk with you a lot.
+Why don't you and I go to a hotel?
+Hehe... Yes, okay.
+I'm just not in the mood for that... Sorry.
+... Yes, that's fine.
+I'm not in the mood for that... Sorry.
+Sure, OK.
+I'd better not.
+Okay, I'll go out with you.
+Sorry, I can't keep you company.
+... Yeah, okay.
+Sorry, no thanks.
+... I understand.
+I'll pass...
+Fine, I'll go out with you.
+Sorry, but I'm not going out with you.
+Why don't you take a break at the hotel?
+... Yeah, let's go.
+It's a little... Difficult.
+I just... Can't go.
+Okay, why don't we go out?
+I'll pass.
+Okay, I'll go with you.
+That's a little... Sorry.
+... Okay, I'll go with you.
+Sorry...
+... Yes, I'm with you.
+All right, I'll go with you.
+I'm not in the mood for this.
+... Would you two like to go to the bathroom?
+Hey, can you follow me to the bathroom?
+What? !
+Now I can't...
+Whoa!
+Nah!
+No, I can't go out with you...
+Whoa!
+I'll have to ask you to consider the timing...
+This is not the right time...
+... Think about the timing.
+Whoa!
+What are you talking about at this point in time? Are you an idiot?
+I have a favor to ask... May I?
+Sorry, I must decline.
+I would like to ask you a few questions...
+I am sorry, but I must decline.
+Could you please come to the restroom?
+Well, I'll be waiting for you.
+... Well, I'm sorry to hear that.
+I can help you with your next project, if you want me to.
+Sitting all the time makes you stiff!
+I've put all the material together properly from the other day.
+What happened to the files that were on the back shelf?
+Thank you for your help the other day.
+Did you find any deficiencies in the recent invoice?
+It's hard to rest my body...
+No problem. Thank you for your concern.
+It's going to be a pain, especially in the buttocks.
+Thanks. I'll check it out next time.
+Thank you very much. I'll check it out next time.
+I moved it to the warehouse when I organized it the other day.
+Never mind. I was just passing by.
+I didn't have any problems.
+Hmmm. I sleep great every day.
+In that case, I think you should take a paid holiday.
+Was I in charge of that case?
+I need to replace that part.
+I've bought more fine tea cakes for our visitors!
+Did you have a good meeting the other day?
+Thank you for always cleaning up.
+I had no problem with the specifications you gave me the other day.
+It's been a busy day here...
+Yes, I think you were in charge.
+You should replace it with an up-to-date one if possible.
+Thanks for the help. Those tea cakes are well received.
+Thank you for your help. Those tea cakes are very popular.
+It's okay. The material was well done, so it was not a problem!
+Thank you. But this is my job.
+That's good to know. I will bring you another one when I have a new one.
+Play for a change. It's fun.
+You should go play somewhere for a change.
+How is your work going in your example?
+If you have any questions about your work, please feel free to ask me anything.
+What were the details of this deal?
+I'm having a hard time understanding what the document I got the other day... Means.
+If you need to restock your supplies, please let me know anytime.
+Orders placed during this time should be sent directly to the warehouse
+I had a tough job coming my way...
+It's okay. There's no problem.
+Thank you very much. You can count on me if you ever need anything.
+I'll pass the material around next time. Please look it over.
+I'll pass the material around next time, so please look it over.
+I'll annotate for clarity.
+Thanks for the help. I'll check the equipment list next time.
+I understand. The number should be the same as last time, right?
+Sobriety Sobriety. It's the guy who pushed it.
+In that case, I think you should just skim it off as you see fit.
+I saw a movie the other night that was really good.
+I watch that drama with that actor every week without fail.
+Which do you prefer, Japanese or Western food?
+I'm thinking of going solo camping next time.
+Do you like to read books?
+Have you taken up any new hobbies recently?
+How can I get money for fun?
+I saw that movie too. It was a very good movie.
+I like that actor too. I can't help but check them out.
+I'm starting to like Japanese food these days.
+I'm getting to like Japanese food these days.
+I like Japanese food these days.
+Solo camping is great. I think it's fun from the moment you get your gear together.
+I like it. I'm learning things that I'm reminded of again.
+Swimming. I just started so I can't swim that well, but it's fun!
+There is no such thing except gambling.
+After all, it's gambling. It's easy to win when you gamble.
+When I'm on vacation, I always end up visiting sweets shops, which is a bit of a problem for me.
+That sweet that's so popular right now was sold at a nearby store!
+Did you know that there is a new cafe in front of the station?
+Do you like animals? I like all animals quite well.
+Do you ever stay up late at night because you get caught up in your phone?
+Is there anything you are into?
+I'd love to know if you have any gambling winning strategies.
+If you eat too much just because it tastes good, you'll worry about your figure.
+Really? I've been wanting to try it, I'll go there next time.
+I know, but I haven't been there yet.
+I know, but I haven't been there yet.
+I know. But I haven't been there yet.
+I like animals too. I used to have a dog and a cat at my parents' house.
+It happens sometimes. I try to be careful, but...
+Recently, it's tropical fish. I've started keeping new ones.
+It's easy. Just keep going until you win.
+It's easy. Just keep going until you win.
+I'm addicted to character key chains and collect many of them.
+How was the atmosphere at that restaurant you were talking about the other day?
+Do you have any movie recommendations?
+Should I learn English conversation or something like that?
+Do you like sweets?
+Actually... I've been working on my diet a bit.
+Is my life as it should be?
+Collecting pretty things sounds fun and wonderful!
+It was a very nice store. I think I will be going back for a while.
+If you're into horror, I have a few recommendations for you.
+If you're into horror, I have a few recommendations for you.
+English is useful in many ways, so I think it's good to learn it!
+If anything, I'm not a fan of sweets.
+Forced dieting, on the contrary, is bad for you.
+I don't know. I don't know, man.
+If you ask me... I don't know.
+Would you two like to go to a restaurant?
+If you would like, we can go to a restaurant.
+How about we both go to a cafe?
+Would you like to have tea at a cafe with us?
+Why don't you go to the park for a bit?
+Would you like to take a walk with us in the park?
+Well... Okay.
+I would like to ask you to come over here, if you have a minute.
+Well... That's too bad.
+Excuse me, may I confirm this...
+I would like to meet with you now... Is that okay?
+May I have a word?
+Well, I'm sorry...
+Is that... Is your time okay?
+Could you please join us at... For a moment?
+Why don't we have a nice talk?
+I would like to talk to you about a lot of things... Is that OK?
+Would you like to go to a hotel... Together?
+I have a small favor to ask...
+May I have a moment of your time?
+... You can't come.
+Have you ever thought about working in another clinic or hospital?
+Nurses are all about smiling, right?
+Speaking of which, when is the next study group meeting?
+Hope you get well soon.
+Do you have any problems?
+I heard that you have a quota for your work... Isn't that hard?
+I've been feeling a lot of anxiety lately...
+Well... So far, I haven't thought about it.
+Yes, I do. But I'm not very good at it.
+Well, let's do it the week after next.
+Well... Let's do it the week after next or so.
+Yes, well... We'll make arrangements to do it the week after next or so.
+Yes, I am. Thank you for your concern.
+Yes, I am. Thank you for your attention.
+No, we're good for now.
+No, we're good for now.
+In my case, it is easier to work hard if there is a quota. I can work hard with that as my goal.
+In my case, it is easier to work hard if there is a quota. I can work hard with that as my goal.
+... Sleep it off and we'll figure it out.
+Get a good night's sleep and you'll be fine.
+I quite like talking to patients.
+I would like to learn from your work ethic.
+Thanks for all your hard work.
+If you have any questions, please don't hesitate to tell us.
+Hehe... Glad to hear you'll be out of the hospital soon!
+As a salesperson, communication is an important part of your job!
+I'm just so tired from all the work I've been doing...
+Hehe... It's fun, isn't it? I'm with you.
+Yes, sir? Thank you.
+What's wrong with you all of a sudden? Well, I don't feel bad about being labored over. Thank you.
+Thank you very much. You, too, are always a pleasure to work with.
+Yes, feel free to rely on me.
+Yes, I will rely on you then.
+Yes, thanks to you. Really, thank you for everything.
+Yes, thanks to you. Thank you so much for everything.
+Yes, we do. Because we need to talk a lot to meet the needs of our customers.
+Yes, we do. We need to talk a lot to meet the needs of our customers.
+Yes, we do. We have to talk a lot to meet the needs of our customers.
+You just don't get enough sleep.
+Sleep warm and you'll be fine.
+Nursing is a rewarding job, don't you think?
+Do you have any problems in your business?
+Are you tired from work?
+Are you taking your medications regularly?
+Please don't hesitate to tell us anything.
+Insurance is a big part of our customers' lives, and it sounds like a very rewarding job!
+I'm having a hard time... Feeling confident in my job.
+Yes, I do. So, in my own way, but I do my best every day!
+There's nothing you don't know, so you'll be fine.
+Haha, it's okay. If the doctor isn't fine, the patient will be worried.
+I'm fine. If I'm not well, my patients get anxious.
+I think it's okay. If I look gloomy, my patients will be anxious.
+Don't worry, I remember to take it.
+Yes, I am. I will rely on you if I need anything.
+Yes, I will. I will rely on you in case of any problems.
+Yes, I do. When our customers are happy, it makes me as happy as I am!
+Yes, I do. When our customers are happy, it makes me as happy as I am!
+If you're still struggling, just quit.
+It's not good to worry too much.
+I heard from a patient that a nice restaurant just opened.
+You're wondering if you should start a new hobby.
+What does your teacher do for relaxation?
+That candy was sold in seasonal flavors!
+I hope you get out of the hospital and enjoy your hobbies to the fullest.
+Do you often receive sweets at your business locations?
+When I get stressed out, I end up making unnecessary purchases...
+Oh, I heard that too. I'll try to go there next time.
+I think it's a good thing. I hope you find a hobby you enjoy.
+Me? I do a lot of light stretching, it helps me feel better. You should try it too.
+Is it me? I do light stretching because it refreshes me. If you want, you can try it too.
+Is it true? Thanks for letting me know.
+Yes, sir. I would like to move my body without a care in the world.
+Yes, I am. I would like to move my body without a care in the world.
+I am happy to say that I often receive tea cakes. So if I'm not careful, I can easily gain weight!
+I'm happy to say that I get a lot of tea breaks. So if I'm not careful, I can easily gain weight...
+Oh, I know what you mean. I do that a lot too. But you wanted it, so you don't have to worry about it.
+I understand because I have been there. But I am sure I wanted it at the time, and I don't regret it!
+Did you see the animal video that was all over social media? They were so cute!
+If I get a decent amount of time off, I want to travel far away.
+I've been reading less and less lately and I was wondering if you could recommend any books for me to read at?
+Do you prefer spicy or sweet?
+Are you bored during your hospital stay?
+How do you choose the snacks you offer?
+How do you relieve your stress?
+Is it that video? I saw it too. It's really soothing, isn't it? I naturally smiled... Hehe!
+That's nice. It kind of makes me want to travel too!
+Well, I haven't had a chance to read any entertainment books either... Sorry, but I don't have any to recommend.
+I haven't had the opportunity to read any entertainment books either... Sorry, but I don't have any to recommend!
+Honestly, I like anything as long as it tastes good.
+Well... To be honest, I like anything as long as it tastes good!
+I have my phone, so I'm never bored!
+I had my phone so I wasn't bored.
+We prepare items that have been well received by our customers based on their reactions. And then there are the trendy ones.
+We have prepared items that have been well received by our customers based on their reactions. And then there are the trendy ones.
+Drink and smoke and you'll forget.
+Drink alcohol, smoke cigarettes... That way you can forget about the bad things!
+I enjoyed the movie I saw the other night. I was fascinated by the actors' good performances.
+The cafe there seems to have a menu that they serve only to their regulars.
+Do you like to watch sports?
+Do you often play games on your phone?
+Is there anything you would like to do when you leave the hospital?
+Oh, by the way, you can now purchase sweets from that popular store online!
+Do you still like to drink?
+I'm a little curious. I'll watch it sometime.
+I didn't know they had such a menu.
+I don't know much about it. It's not that I don't like...
+I don't know much about it. It's not that I don't like them, but...
+Yeah, I do that a lot. It's just a good way to pass the time.
+Yes, I'm doing it. It's just a good way to pass the time.
+There are so many things to do... I'm having a hard time deciding what to start with.
+There are so many things to do... I'm not sure where to start.
+Is that so? Thank you very much. I'll buy it next time.
+What's the big deal? I can't live without booze.
+Naturally. I can't live without alcohol... Hehe!
+Yes, I do. Without alcohol, I can't live...
+Would you like to have dinner at a restaurant?
+I'll join you.
+A little inconvenient... Sorry.
+If it's okay with me, I'll go out with you.
+It's just not a good time... Really sorry.
+Great, I'll gladly go with you.
+Sorry, this isn't a good time.
+Yes, I will go with you.
+Sorry... It's just not a good time.
+Great, I'll go with you.
+Sorry, I don't think I can make it.
+Sorry...
+I would be happy to go out with you.
+Sorry, if you could invite me back another time...
+Thank you for the invitation. I'll be happy to go along.
+Sorry... I would be grateful if you would invite me back!
+Thanks for the offer. I'll go out with you.
+I'm sorry, can we do this another time?
+Sorry... I'd be happy to be invited back.
+It sounds like fun, so I'll keep you company.
+Sorry... Please invite me back.
+I'm sorry, if you could do it another time...
+Would you like to have tea at a cafe?
+Why don't you take a break at a cafe?
+Why don't you go to the park for a while?
+Why don't you relax in the park?
+Could you please come this way now?
+I need you to come over here... Is it okay now?
+Please come with care.
+Seems like the timing wasn't right...
+I just wanted to ask you a few questions...
+Excuse me, I need to check something...
+I'm meeting with you now, is that okay?
+I'm glad. I'll be on my way soon.
+How are you feeling? If you need anything, please let me know right away.
+No problem. Nothing special.
+It's okay. No particular problem.
+Are you feeling better?
+Is something wrong?
+What is it?
+Well, sorry about that...
+Can I help you?
+What is it?
+Yes?
+It's okay.
+I'm sorry... I can't go out with you.
+I'm... Sorry...
+I'm sorry, but I have to decline.
+Excuse me.
+Do you... Have a moment?
+Well... I'm afraid I must decline.
+No problem.
+... I'm sorry, I can't go out with you.
+I have my reasons.
+Not at all.
+Excuse me.
+Why don't we have a little chat now?
+Okay, I'll be happy to go out with you.
+Sorry, I can't keep you company for a moment.
+Uh, yes. I'll go out with you.
+I'm not in the mood for that... Sorry.
+Okay, let's go out.
+Sorry, I'll pass.
+Sorry, I'm a bit out of my depth with all the chatter...
+Yeah, okay.
+I am sorry, but I must decline.
+Would you like to chat with me a lot?
+... Yes, I'll join you.
+Ah... I understand. I'll go out with you...
+I'm sorry...
+... Okay, I'll go along with you.
+I'll pass.
+Okay, I'll go with you.
+I'm sorry, but I can't go out with you.
+Okay, I'll go with you.
+What can I say... Sorry.
+Sorry, no thanks.
+Would you like to go to a hotel with me?
+... If it's ok with me, I'll go out with you.
+Sorry, I can't go.
+Yes... I will keep you company...
+That's a bit... Out of the question...
+... Okay, I'll go with you.
+I'm sorry, but I can't go out with you.
+Okay, let's go together.
+Uh... No, thank you.
+I'll go out with you.
+Uh... Sorry.
+... I will be happy to keep you company.
+We decline your request.
+... Would you mind following me to the restroom?
+Hyah!
+I don't know what to tell you now...
+I don't know what to say now...
+... I can't do this right now.
+Wow...!
+I can't. I can't...
+I can't go out with you...
+Not acceptable...
+Now... May I?
+Would you mind... Accompanying me for a moment?
+Can you please come to the restroom?
+I'm sorry, I understand...
+Would you mind following me for a moment?
+Actually... I'm still afraid of giving injections.
+I know it's your job and there are many things that can get you down... But let's work hard for each other.
+I borrowed this medical book the other day and I learned a lot from it. Thank you so much.
+I hope you take care of yourself.
+Are you sleeping properly at night?
+Isn't it hard to work in sales?
+... I sometimes wonder if I'm not cut out for this job.
+It's natural to be scared because you're sticking needles into people's bodies.
+Thank you for your kind words. Keep up the good work!
+That's good to know. If you need anything else, don't hesitate to let me know.
+That's good to hear. Please don't hesitate to let me know if you need anything else.
+Thank you very much. Well, I'm in the process of getting it fixed, and I won't do anything rash.
+Thank you very much. I'll try not to be reckless.
+I'm fine. I sleep well every day.
+I'm fine. I sleep well every day.
+It's hard to move around because I have to go to different places... But I love talking to customers, so I think it's my calling!
+It's hard to move around because I have to go to different places... But I like talking to customers, so I think it's my calling.
+If that's what you think, isn't it?
+If that's what you think, then maybe it is.
+Am I... Treating my patients well?
+I'm thinking of buying a new pen, do you have any recommendations?
+What do you keep in mind when you examine your patients?
+Well, um... If you need anything, you can always ask.
+Is there any inconvenience?
+I don't think I could work in sales...
+I'd like to help people more, but it just isn't working out...
+You will be fine. Be confident.
+I'm not particularly picky... Sorry.
+I guess I try to examine the patients themselves and not just focus on their illnesses or injuries.
+I try not to be preoccupied with illness or injury, but to be patient with my patients.
+Yes... I try to be very patient with my patients.
+I understand. However, I'm not currently in trouble, so I'm fine.
+I understand. But I'm not in trouble at the moment, so I'm fine.
+Understood. If I have any problems, I will ask you right away.
+Well... I've thought about it, but nothing in particular.
+Hmmm... I've thought about it, and it's not particularly inconvenient!
+... I thought about it, but couldn't come up with anything specific.
+Nurses have lots of opportunities to talk to people, so you might be surprised to find that you're suited for this?
+You think too much. You should empty your head like I do.
+It's not good to overthink things.
+Maybe it's not the right time to say this, but... Thanks for all your hard work!
+In this job, you have to learn every day...
+Well, I mean... When did you decide to become a doctor?
+Was there anything in the doctor's story that you didn't understand?
+Life in the hospital... It's tough, isn't it? I hope you get well soon.
+You've been traveling around in sales in various places, haven't you? Good work, sir.
+This job is always next to my anxiety... And I feel like my heart is fraying.
+Uh-huh. Thank you very much.
+Yes, I do... But it's for the patients, so I don't mind at all.
+You want to hear an old story? It's a long story, so we'll save that for another time.
+It's a long story, so we'll leave that for another time.
+It's a long story... Let's save it for another time.
+I got a clear explanation, so I'm good to go.
+You explained it clearly, so I'm good to go.
+Thank you for your concern. But you've been good to me, so it's never been hard.
+Thank you for your concern. But you have been good to me, so it's not hard work at all!
+Ha, that's my job.
+Hehe, that's my job.
+No, because that's my job.
+Why do you have to work so hard? If it's too hard, don't do it.
+I don't think you have to work that hard. If it's too hard, just stop.
+If I'm going to go to all this trouble, I'd like to have a hobby that might be useful.
+When I think back to what I liked to do, it was all things I could do on my own...
+It's just my own impression, but I have the impression that your teacher is multi-talented. How do you really feel about it?
+The pastry you recommended the other day... Delicious!
+Try some simple yoga and stretching once you are discharged from the hospital. It's good for your body.
+Do you have a variety of hobbies to stimulate conversation?
+Should I be interested in more outdoor hobbies?
+I think it's a wonderful idea. But it's just a hobby, so please don't get too worked up about it.
+I'm the same way. I'm more comfortable doing things alone.
+No, no, no, I don't have that many hobbies.
+No, I'm not a polyglot.
+That's good to know. I like that candy too.
+That's good to know. I like those pastries too.
+Thank you, I'll give it a try since you recommended it.
+Thank you very much. I'll give it a try since you recommended it.
+Although I don't often actually get hands-on, I do try to keep up with my customers' hobbies and interests.
+What do you think? You do it because you like it. It's your hobby. You don't give a shit what anybody thinks.
+I think you should do what you want.
+I actually like to collect cute little things. Do you pull?
+I'm actually a little interested in custom made pillows.
+Do you often read books other than medical books?
+Have you ever had an increase in friendships through your hobbies?
+Maybe it's time to start thinking about what to give as a get well gift!
+Do you listen to music or something while traveling to the sales destination?
+You know... A good stress reliever?
+Not at all. I like it too.
+There's a lot of talk about sleeping well. I'm interested too.
+No, I don't read much outside of studying. Sorry, can't keep up with all the book talk.
+I don't read much outside of studying. Sorry, but I can't keep up with all the book talk.
+Oh no, no encounters so far.
+Hmmm... Not so far.
+So far, we have not had such a connection.
+Aside from my friends, it would be bad if I didn't send something to my boss... I'll think of something.
+I'll have to send something to my boss, let alone my friend... I'll think of something.
+I'm more of a radio show listener.
+I'm more of a radio show listener.
+Riding a Motorcycle. It's the only way to go.
+You can ride a motorcycle. I recommend it because the wind feels good.
+Listening to healing music is a great way to relax!
+Should I be more interested in cooking?
+It's a cake shop nearby, and it's delicious, if you want to try it!
+It's really convenient to be able to watch various things online at...
+During your hospitalization, did you have time to devote to your hobbies?
+Have you ever grown plants? It's very peaceful!
+Do you like karaoke?
+Oh, I see. I'll have to give it a listen sometime.
+What do you think? I think it would be better if we could...
+Heh. I'll go there when I get a chance.
+I see, I'll try to go there when I get a chance.
+I understand, I understand. I don't rent movies or anything anymore.
+I understand. I rarely rent movies anymore.
+There were a lot of them. We even reread some of the old classic comic books... It was a fun time!
+Yes, there was a lot. I spent a lot of time reading old classic comics... And I spent a lot of quality time!
+I understand. I grow cacti too, and they heal me!
+I understand. I grow cacti too, and they are soothing!
+Yeah, I love singing itself.
+I like singing itself, not just karaoke.
+Well, why don't we go to a restaurant?
+If you would like, we can have dinner at a restaurant.
+I am thinking of going to a cafe, would you like to join me?
+If you like, you can go to a cafe with me.
+I mean... Would you like to talk in the park?
+Would you like to go to the park with me?
+We would like you to come here, is that OK?
+I'm sorry. Thank you.
+It's hard to do right away... I understand.
+I mean... Could you please come this way?
+Then, we will be waiting for you.
+Oh, no... It was sudden, so please don't worry about it.
+I would like to ask you a few questions...
+Sorry, I just wanted to confirm a few things...
+Um... Can we meet now?
+Thank you very much. I'm on my way there now.
+May I have a word?
+Um, excuse me...
+Are you okay now?
+Your time... Okay, sir?
+Why don't we relax and have a chat?
+Why don't you two talk about various topics?
+... Would you like to go to a hotel with me?
+... Would you like to go to the bathroom with me?
+Would you two like to go to the... Restroom?
+Well... Now... May I?
+Now... Could you please come to the restroom?
+Thank you very much. We are waiting for you.
+Well, I'm very sorry...
+Would you mind... Following me for a moment?
+How were the results of the mock exam the other day?
+I knew world history was hard.
+That assignment the other day was pretty difficult...
+Are you studying at home?
+The classroom window was rattling, can that be fixed?
+Are there any interesting teaching materials?
+It's hard to make progress in my studies...
+I guess so-so. It was better done than I expected.
+I know what you mean. I can't remember people's names very well...
+If you can't solve that one, it's going to be hard to move up.
+If you can't solve that many puzzles, it's hard to move up.
+I'm trying. I'm trying, but... It's like this.
+I do. I'm trying, but... We just can't get results.
+With lubricant, it's not a problem.
+Just use some lubricant and you'll be fine.
+Then, how about this collection of problems?
+Then I think these problems are a good place to start.
+You can just skip school, you know, study.
+Just skip it. Study.
+Don't know of any easy-to-understand English reference books?
+They say that reading newspapers makes you stronger in exams, do you think it's true?
+Can I go ask you a math question later?
+Are you pretty particular about writing utensils and such?
+There was a flickering fluorescent light...
+I'm looking for a math reference book.
+I failed the practice exam the other day, so...
+I think something from this publisher would be nice.
+I don't know, I've never tried... So I guess I don't know.
+Yeah, that's good. Ask me anything.
+All right. Ask me anything.
+I'm rather particular about it. I'm just trying to be a good sport about it.
+I'm rather particular about it. And I want luck to be on my side.
+Ok, I'll replace it next time.
+All right, I'll replace it next time.
+This reference book will make you stronger in math!
+I think this reference book will make you stronger in math.
+You're not going to die even if your grades are bad. Don't worry about it.
+There's no need to be upset about a bad grade.
+Doesn't the next test look difficult?
+What level should I take the next competency test?
+What is the scope of the next test?
+Do you have any tips on how to remember English vocabulary?
+First floor hallway window, cracked.
+Teaching materials are cheaper if you buy them in bulk.
+I think I'm going to stop studying now...
+Hey... I'm not sure I'll score properly.
+For now, I think starting with the 4th level will do the trick.
+I'm up to where I was the other day in a lecture.
+I'm up to where I was the other day in a lecture.
+I'd like to know about that.
+I'd like to know about that.
+Are you sure? Don't get too close. It's dangerous.
+Is that true? Don't get too close. It's dangerous.
+Yes, we offer set pricing.
+That's right. We have a set price for you.
+Stop it, stop it. Come play with me.
+You can stop. And come play with me.
+There's a new store in front of the station.
+What are some recent recommendations for sweets?
+What do you do for fun on your days off?
+Surprisingly, you like sweet things.
+Do you have any hobbies?
+Do you have any recommendations for books other than the material?
+I'm really into smartphone games.
+Oh, I see. Maybe I'll go there next time.
+The sweets they're selling now for a limited time are delicious.
+Basically, you're preparing for your next lecture.
+Basically preparing for the next lecture.
+Well, I've got most of the trendy sweets.
+Well, I've got most of the trendy sweets down.
+I like to watch classical music. Listening to it calms me down...
+I like to watch classical music. I find it calms me down when I listen to it.
+If it is not a teaching material, then... Pure literature. I think it's interesting and you can learn a lot from it.
+If it's not a teaching material, I'd say it's pure literature. It's interesting and you can learn a lot.
+If you're going to play games anyway, gamble. You'll make a fortune.
+If you're going to play games anyway, gambling is better. And it's more profitable.
+The new sweets were soooo good!
+I read the comic you told me about before and it was really interesting!
+How are you doing these days?
+What do you do on your days off?
+Are you getting proper rest on your days off?
+Do you watch movies or something?
+Singing at karaoke is a great stress reliever.
+Is it that good? I might want to try it once.
+Really? I'm glad you said that because it's one of my favorites.
+I don't see any problem with that.
+No problem.
+You're either playing games on your phone or on your computer.
+I'm either playing games on my phone or on my computer.
+Yeah, I'm resting. There's nothing much to do.
+Yeah, I'm resting. There's nothing much to do.
+Of course I will watch it. But I've been so busy lately that I haven't had time to watch it.
+Of course I'll watch it. But I've been so busy lately that I haven't had time to watch it.
+I know what you mean. I sing a lot too.
+I sing when I'm having a bad day too, so I know exactly what you mean.
+I was at the arcade the other day. Do you like games and stuff?
+If you're going to play, it's still a theme park.
+Are the comics you used to read interesting?
+Have you been doing any karaoke lately? I like to sing.
+You should eat something sweet or something once in a while.
+Is there anything you're into these days?
+After all, we want to live every day playing...
+I like it a lot. I often play crane games.
+I understand. I too think theme parks are the best.
+Interesting. If you're interested, I can bring you a volume next time.
+It's interesting. If you're interested, I can lend you a copy next time.
+Oh, I see. I haven't been there at all.
+Heh, I see. I haven't been there at all.
+Well... We'll consider it.
+Yeah, well... Maybe you should.
+I'm a bookstore tour. It's both a hobby and a job.
+I'm a bookstore rat. It's kind of a hobby and a job.
+Of course everyone thinks so. It's the best way to live, man.
+Everyone thinks so. It's the best way to live.
+Why don't you and I go to a restaurant together?
+Great. I'll go with you.
+Sorry, I'll stop.
+Yeah, I'll go out with you.
+It's just not a little convenient...
+I don't mind.
+Sorry, but I don't think I can go.
+I don't mind.
+Sorry, but I don't think I can go.
+Well... Let's go out.
+Sorry, but I don't think I can go.
+Yes, I'll keep you company.
+I'm sorry... It's just not convenient.
+I'd like to go to a restaurant with you...
+All right, let's go.
+I don't know if it's a bit too much... Invite me over some other time.
+Okay, I'll go out with you.
+I'm not sure I can... Ask me out another time.
+Sorry to hear that, but you'll have to invite me back another time.
+Okay, I'll go out with you.
+Too bad. Maybe some other time.
+Yeah, let's go.
+Sorry to hear that, but you'll have to invite me back.
+Great, I'll join you.
+I'm sorry to hear that, but please invite me back.
+Why don't we take a break at a café?
+Would you like to go to a cafe with me?
+Would you like to go to the park with me?
+I want to go to the park. Do you want to join me?
+Can you come over here now?
+Thanks. I'll be waiting.
+Impossible... Well, I guess I'll have to do it then.
+I'd love it if you could come over here when you have time...
+Oh, you sure? I'll wait for you then.
+If you can't, it's okay. Don't worry about it.
+Let me ask you something.
+I need to talk to you about a few things.
+Can we meet outside now?
+Thanks. Well, I'll see you later.
+Can I have a word?
+What's wrong?
+Hmm? What's wrong?
+Now, okay?
+Hmm, what can I do for you?
+What's going on?
+What is it?
+Time... Do we have it?
+Yeah, okay.
+Um... Sorry.
+It's okay.
+I'm sorry, but I can't go out with you.
+Yeah, that's good.
+I can't.
+... Sorry.
+... Refuse.
+... No, I can't go out with you.
+Time is... Okay?
+I'm sorry for... For a minute.
+I'm not going out with you.
+I'm sorry, but I can't do that.
+No... You can't.
+No problem. 
+I... I can't.
+... I'm sorry.
+Will you join me for a chat?
+You want to chat? Not at all.
+Maybe I'm not in the mood to talk that much... Sorry.
+All right. All right.
+Sorry, but I'm afraid we'll have to chat another time.
+Sorry, but we'll have to talk about this another time.
+Yeah, totally fine.
+Ummm... We'll have to talk about this another time.
+Yeah, let's go out.
+... Sorry, I'm just not in the mood.
+Yes, I'll keep you company.
+I'm not in the mood... Sorry.
+I have a lot to talk about, will you come with me?
+Would you like to go with me... To the hotel?
+... Okay, I'll go with you.
+That kind of thing is a little...
+No, I'm not going to go.
+All right, I'll go out with you.
+I'm not going out with you.
+Oh... Okay.
+No, I'm good.
+I... Okay.
+... I understand. Let's go out with you.
+I mean... Do you want to go to a hotel?
+I'll go out with you. I'll go out with you.
+I'm not sure I can...
+... I can keep you company.
+Well... Let's go together.
+I'm not going.
+All right, I'll follow you.
+I'll pass.
+... All right.
+Take it in stride
+I'm sorry, but I can't help you.
+... Would you like to go to the bathroom with me?
+I need you to accompany me to the bathroom... Okay?
+Hey, I don't know if I can...
+I don't like it when you say that...
+I can't do it now...
+Now I can't...
+No, no, no, no. He can't do that now.
+I'm not sure...
+Just... Think about the timing.
+He said he can't do it now...
+Can I ask you for a little favor... Okay?
+Um... Can I have a word?
+I need you to come to the bathroom... Okay?
+Are you sure? Then I'll wait for you.
+Ugh, I'm so sorry...
+Are you ready for the next mock exam?
+Math is too hard for me to follow...
+I'm not quite sure how to use this function...
+Do you remember the periodic table of atoms?
+The power in the downstairs bathroom almost went out.
+Is there any new material in there?
+The tests are too hard for me to follow...
+Yeah, it's perfect.
+I know exactly what you mean. I'm not good with numbers either...
+That one can be hard to use if you don't understand the fundamentals.
+That one can be hard to use if you don't understand the fundamentals.
+It's okay, man. I'm good at that kind of wordplay.
+It's okay. I'm good with words like that.
+We have them in stock. How about this dictionary?
+It's in there. I think this dictionary or something like it would be good.
+Don't worry about that. Just go at your own pace, he says.
+You don't have to worry about that. Just go at your own pace.
+Do you have a favorite reference book?
+I hate studying, but I'm pretty good at English.
+Where should I focus my review for the upcoming quiz?
+It's hard to remember the year in a word list...
+The doorknob in the upstairs classroom looks a little wonky.
+Now there's a reference book I'm not sure I want to buy...
+I'm not studying at all, and my motivation is even less...
+Yes, there is. This publisher's series is easy to understand.
+Oh, I see. I'm pretty good at English too.
+It's between page 110 and 120 of the text.
+It's from page 110 to 120 of the text.
+Really? It's easy enough to remember if you think about what it means before and after.
+Really? It's easy enough to remember if you think about what it means before and after.
+I'll fix it next time. Until then, treat it with care.
+I'll fix it next time. Until then, treat it with care.
+I recommend that you purchase the reference book there, as it has a reputation for being easy to understand.
+That reference book has a reputation for being easy to understand, so you should definitely buy it.
+You don't have to worry about grades.
+I don't think you need to worry about grades.
+Next quiz, I think this area will be on...
+I'm not sure I can do science after all...
+I understood your lecture the other day, for me.
+What were the results of the last mock exam?
+Broadcast speakers, the sound seems to be cracking...
+I'd love to see a catalog of teaching materials or something next time.
+Wouldn't it be easier to get a better grade...
+Yeah, I think so too. I'm sure you're right.
+I can't either... Gibberish.
+Well, that's good to know.
+Oh yeah, that's good to know.
+No problem. As usual.
+No problem. It was business as usual.
+It's a little old... I'll call a contractor next time.
+It's a little old... I'll call a contractor next time.
+Okay, I see you have the latest version.
+All right, I'll get you the latest version.
+If you don't have time to think about that, come play with me. I'll definitely entertain you.
+If you have time to think about that, come play with me. I'm sure we'll have fun.
+You've got the hottest comics down for now.
+Is it true that you have a lot of comic books?
+What do you do for a break from studying?
+Besides educational materials, do you sell any games or anything else?
+I'd love to forget everything and just dance.
+Mostly karaoke or visiting sweets shops.
+It's a given. We definitely need to hold them down.
+Yeah, I've got some. They're all old comics, though.
+Yes, I have them. They're all old comics, though.
+I'm playing games on my phone, man. I'm having too much fun to get lost in the game...
+I play games on my phone. I'm having too much fun to get caught up in the game...
+I like to listen to music. I especially like classical music.
+I like to listen to music. I especially like classical music.
+Unfortunately, we don't sell anything but educational materials.
+Unfortunately, I don't know if they sell anything other than educational materials.
+Why don't you do what you want to do? If you want to dance, I'll dance with you.
+I think you should do what you want to do. If you want to dance, I'll go out with you.
+What is your favorite food?
+Sweets are good, aren't they?
+Do you make test questions on your days off?
+What are you doing on the computer?
+Maybe you don't like to talk much?
+Don't you have comics or something?
+After all, we like to party on the weekends, don't we?
+I guess the best thing right now is sweets.
+I know exactly what you mean. I can't start without sweets.
+Yeah, that's right. But I don't have all day to make it.
+Yeah, that's right. Although, I don't cook all day long.
+Mostly games... FPS is super fun!
+Mainly games... FPS is super fun.
+I don't mean to be a hater, but... I don't know myself.
+I don't mean to hate you, but... Maybe I don't know myself.
+I have it. I just sell reference books for work, not because that's all I read.
+I have them. I just sell reference books for work, that's not all I read.
+I guess. And a party is always a good thing.
+Yes. And parties are always fun.
+Do you have any hobbies?
+We went to a new theme park and it was a lot of fun!
+Games on smartphones are so easy to get caught up in.
+After all, on a day off, you want to go out and have fun!
+I have an interesting smartphone game, would you like to try it?
+What do you like to eat?
+That theme park was fun, you should go there next time.
+There are many things... But I think my favorite is eating sweets.
+I went too and it was amazing. I'd love to go back...
+Don't touch it when I have free time. I really should probably spend my time on something else, but...
+Whenever I have free time, I'll touch it. I guess I should really spend my time on something else...
+Yeah, I know exactly what you mean! I have to play or else I'd never do it.
+Yes, I know exactly what you mean. After all, you can't do without playing, can you?
+I'm interested... Will consider it.
+I might be interested... Will think about it.
+I like anything that's readily available.
+I guess I like something easy to eat.
+Hmmm, okay. I'll go there when I'm ready.
+Oh, I see. I'll go there next time.
+Would you two like to go to a restaurant together?
+Would you like to have dinner at a restaurant?
+Would you like to take a break at a cafe with me?
+Would you like to go to the park with me?
+Would you like to walk with me to the park?
+Can you come over here?
+Thanks. Take your time.
+Sorry to hear that, but if you can't make it, I don't blame you.
+I need you to come over here now...
+Thanks for the help. I'll wait for you.
+You can't? Then I guess I don't have a choice.
+Hey, can I talk to you?
+I just wanted to ask you a few questions...
+I need to see you and talk to you, okay?
+Thanks. I'll be on my way then.
+Hey, can I have a word?
+Do you have a little... Time?
+Time... Are you okay?
+I'd like you to join me for a chat... Okay?
+I have a lot to talk about... Will you join me?
+Would you like to go to a hotel with me?
+Hey, do you want to go to the hotel with me?
+Will you accompany me to the bathroom?
+I have a favor to ask you... Okay?
+I just wanted you to hang out with me for a minute... Okay?
+I need you to come to the bathroom... Okay?
+I'll be waiting for you then.
+... I see. That's too bad.
+I have to work a lot to learn the choreography.
+I'd like to increase the variety of poses for my photo shoot. Can you give me some advice?
+Well... Do you have a new job?
+Do you have other properties like this?
+Thank you for your support. It really encourages me.
+How much does it cost to make a CD?
+I'd like to make it more well known, but it's not easy...
+Yes, practice to the best of your ability!
+You can get by on the spot, so I don't think you need to worry about the details.
+New job? There's no such thing. You're not good enough.
+Unfortunately, there are no new jobs in particular.
+Yeah, that's right. I have three buildings and a couple of other live music venues.
+Yes, we do. We have three buildings and a couple of other live music venues.
+I am glad to hear that... I will continue to support you...
+I am glad to hear you say so. I'll keep supporting you.
+Well... It depends on the vendor, so it's hard to say... But just to press a CD would cost several tens of thousands of dollars.
+It depends on the vendor... But it can cost tens of thousands of dollars just to press a CD!
+Maybe they're not trying hard enough? I don't know.
+It's not easy to be famous... You just have to work hard.
+I always have a hard time finding photos to put on social media...
+I can teach you the choreography if you like.
+I want to do something other than shake hands.
+Do you spend a lot of money on facilities? I feel that the acoustics are better than other live music clubs.
+Will you come to our next concert?
+Should I also consider the services of a subscriber?
+I feel like there's no way forward for us if we continue with our activities...
+Me too... I still don't know what kind of photos are required!
+No, I've learned most of it, so I'm fine. I'll be able to rely on you when I'm really in trouble.
+What are you talking about? With your current ability, a handshake session is the best you can do.
+I understand your desire to be selfish, but shaking hands is also an admirable job. Please do your best.
+I'm surprised you noticed. The building itself is a bit dated, but they have a nice selection of microphones and speakers.
+How did you notice that? The building itself is a bit dated, but we have good microphones and speakers for that!
+I will definitely go! And I'll be there whether I have to work or not!
+I will go to the show no matter what.
+I think it's good to think of different ways to sell! And there are actually girls who are starting to.
+I think it's good to think of different ways to sell. There are actually girls who are starting to.
+I don't care what you say... Do what you want.
+... I can't give you any advice if you ask me.
+I've thought of a way to partition the lyrics.
+Me too... I'd love to be on TV someday.
+Regarding the new song... Has there been any progress since then?
+Isn't it difficult to manage a building?
+I'd like to use this as a reference... Any goodies you'd like to see?
+Of course I love being on stage, but I have a yearning to be in the... Media!
+I wonder... How long I can be an idol...
+Thanks for the help. I'll practice with this.
+... I think it's good that you have high goals.
+Oh? New song? I'm working on it, so just be patient. Creative work takes time.
+Is it a new song? We are working on it. Creative work takes time, so please wait!
+I basically let the management company take care of it, so it's not that hard for me personally.
+Basically, the management company takes care of it, so it's not that hard for me.
+Well... If there were key chains... That would be great... I would definitely buy a lot of them...
+Hmmm... I think I would be happy with a keychain. I'd like to put a lot of them on my painbucks.
+There are girls who are in the media even as underground idols, and I think that if you work hard, your dreams will come true!
+There are girls who have appeared in the media even as underground idols, and I think that if you work hard, your dreams will come true.
+You don't get to decide that for yourself, not for others. Don't ask me.
+I think that is for you to decide. I can't answer that question.
+The group I performed with the other night had a new song out, and it was very good!
+I'm thinking of studying comedy to enhance my live MCing... What do you think?
+Do you have, um... Hobbies?
+Do you have a live music club because you love music?
+Thank you for always leaving comments on my blog!
+What did you do on your last day off?
+I'd like to spend more money on my hobbies, but that's just not possible...
+I heard it too, it's a great song. I would love to sing a song like that.
+I don't think you're suited for this. I think your fans would be more pleased if you honed your skills as a regular idol.
+If I had to guess, I'd say alcohol.
+Hobbies... If I had to pick one, I'd say drinking.
+That's right. I don't sing or play, though. I like to listen as a guest.
+That's right. But I don't sing or play. I like to listen as a guest.
+I'm so glad you're watching...
+I'm so glad you saw it.
+I was walking around eating at various restaurants. Well, it was like half the job because I was also looking for a place to entertain guests.
+I ate at many different restaurants. Well, it was like a job because I was also looking for a place to entertain my guests.
+Then quit being an idol and work hard. You'll make more money that way.
+I think you'll just have to put up with it as it is, or try to get a part-time job or something.
+I love the dance of that idol group so much that I practice it at home.
+I often get likes on social networking sites, do you have any tips?
+I've had pancakes from a famous restaurant and they were so good!
+I'm going to stay at a friend's house.
+By the way, you were interested in the sweets I recommended, did you try them?
+Is it because you still love music that you are doing what you are doing now?
+... I realize how hard it is to turn a hobby into a job!
+Me too. It's fun to dance, isn't it?
+You should write something that you can relate to.
+I see. And did you put it on social media? It doesn't matter if you reported it to me.
+That's good to hear. Did you put that picture on social media properly? Please tell your fans about it.
+That's great. I hope you have a lot of fun.
+That's great. Have lots of fun!
+I tried it... And like I said, it was delicious...
+I tried it. It was so good, I've bought it several times since then!
+That's right~. I used to be in a band. Well, I couldn't make my debut because I wasn't very good at it.
+That's right. I used to be in a band. But I wasn't very good at it, so it was a dream come true to make my debut.
+I don't know what your problem is. Well, it's your choice, so go for it.
+I don't know what your problem is. I can only support you irresponsibly.
+I was able to make delicious pastries, and when I posted them on social media, I received more responses than usual.
+What do you think is an idol-like hobby?
+You know... I have a thing for sparkly stage costumes.
+I won tickets to my favorite idol's concert!
+What sparked your interest in live idol shows?
+Why do famous artists record abroad?
+I tried the cup noodles you recommended before and they were delicious!
+That would be great. It's a chance for more than just our fans to get to know us!
+... If you ask me, I don't really know. It's a job to sell dreams, and I think you should just play the pretty girl appropriately.
+You've got to polish your performance before you start pining for a costume.
+You can admire the costumes, but you have to polish your stage performance!
+Oh, congratulations! I hope the gig will be an inspiration for you!
+Congratulations! I hope the gig will be an inspiration to you.
+At first... Well, my friend invited me... And then I started having fun... And I've been coming here ever since.
+I was invited by a friend. I enjoyed the atmosphere of the live show and was completely hooked after just one visit!
+Hmmm... Everyone has their own reasons! Why don't you just ask the artist who actually recorded it?
+... I'm sure artists have answered this question in magazine interviews, etc., so please look for it!
+Right? Now try adding raayu (Chinese chili oil) It'll be even better.
+That's good to know. Now try adding some raayu, it will be even better!
+Sorry... Maybe next time.
+Great, let's go together.
+I'm sorry... I can't.
+Good. I'll go out with you.
+I ain't going.
+Sorry, I can't go out with you.
+Yes, yes... I'll go with you.
+I'm sorry, I can't go.
+Great, great, I'll go out with you~!
+Uh... Sorry.
+Would you like to have dinner at a restaurant?
+Thank you for the wonderful invitation. I'll be with you.
+A little inconvenient... My apologies.
+Okay, I'll go out with you.
+Sorry, I can't come with you.
+Well, I'll go out with you.
+Maybe some other time.
+Sure. Why don't you come with me?
+I'll have to decline this time.
+Thank you for the offer... Thank you very much... I'll go out with you.
+Um, sorry...
+Okay, I'll go out with you.
+I'd love to go, but... Sorry~!
+If you want, why don't we go to a cafe?
+Why don't you two go to the park?
+Would you like to take a break in the park?
+Could you please come now?
+Excuse me, I need you to come over here.
+Thank you very much. Take care.
+Excuse me, I was wondering if I could ask you...
+I'd like to talk to you about a few things...
+I would like to talk to you outside, is your time okay?
+Thank you very much. I'll be on my way as soon as I can.
+... You're busy, I understand.
+Uh, yes. Can I help you?
+You wanted to see me?
+Is something wrong?
+What's wrong?
+Hmmm, what's wrong?
+May I have a moment?
+Yes, what is it?
+What's going on?
+What is it?
+Yes... What is it?
+Oh, what's up?
+Is your time... Okay?
+Um... Sorry.
+... I'm sorry, I can't go out with you.
+Sorry, but I have to decline.
+Ha, yes... It's okay, it's okay...
+I'm sorry...
+Okay, okay~.
+I'm sorry, but I can't.
+... I can't socialize with you.
+Sorry, I can't keep you company.
+I don't care.
+I can't go out with you.
+Maybe a little too much.
+Uh... Yes, okay...
+I'm... Sorry...
+Not at all!
+Sorry~!
+If you like, we can talk about it slowly.
+All right. I'll chat with you.
+Well... Maybe we can talk about this some other time...
+All right. Tell us a story.
+I'm not really in the mood to talk... Sorry, but I have to decline.
+Well, I don't mind.
+I'm not going to get into a long conversation.
+Sorry, but I'd appreciate it if we could talk some other time.
+Uh, yes... We'll go out with you...
+I'm not very good at talking... Sorry...
+Okay, I'm totally with you.
+Sorry, but I'm just not in the mood for this!
+I'd like to chat with you a lot.
+... Yes, I'll go out with you.
+No... We can't socialize.
+... Well, I don't mind.
+No... I decline.
+Well, I'll go out with you this time.
+I'm not going out with you.
+I'm going to have to turn that down.
+Uh... Yes, I'm fine...
+That's just... Sorry...
+Okay, okay, okay, okay.
+I can't go out with you.
+Would you like to go to a hotel with me?
+I understand. I'll join you.
+That's... Sorry.
+... Okay, I'll go out with you.
+I'll pass.
+Great. Let's go out.
+I ain't in the mood.
+I'll take you up on that offer.
+I don't think I can go out with you for a while.
+I understand... I'll go out with you...
+I'm sorry...
+Great, I'll go out with you!
+No, I'm not going!
+Would you like to go to the restroom with me?
+I wish you would consider timing...
+I'm not in a position to be in a relationship.
+Are you nuts? I'm not going out with you.
+Whoa!
+I can't go out with you...
+No, no, no... Not now.
+Would you like to join us for a few minutes?
+May I have a moment of your time?
+Excuse me... Could you please come to the restroom?
+I'm glad you're coming.
+Can't you relax your shoulders a little more?
+Wouldn't you like the choreography to be easier?
+Excuse me, could you tell me what your schedule is for next week?
+Is it profitable to be a live music club owner?
+Did you buy a lot of my goods?
+Would you be willing to sell my CDs on a national scale?
+I didn't expect it to be an easy sell... But it's hard to bear the loss of popularity when it continues to be unpopular.
+Was it too much force? Thank you. I'll be careful.
+I understand very well. Honestly, learning the choreography is the most tedious part!
+I thought I told you properly the other day. How could you forget?
+I believe I contacted you properly the other day. Please take good notes.
+To be honest, I don't make that much money. It's almost like a hobby.
+To be honest, we don't make that much money. I do it mostly as a hobby.
+I'm buying a lot! I'll put it up on social media next time...
+I buy a lot. I'll put it up on social media sometime.
+Sorry, but that's not my job.
+I'm sorry, but that's not my job...
+If it's hard for you, quit. If you have the energy to continue, hang in there a little longer. That's all I can say.
+If it's too hard for you, you can stop... If you still have the energy, try a little harder.
+Egos are important, but not too much. Well, it's not for me to say, but...
+Why would I write 'I'm going to change my guess' or anything else on the internet? Honestly, I don't want you to say anything.
+I have a mental health problem and would like to have a well-rounded vacation.
+I too would like to have a property and disposable income in the future...
+Please refrain from doing violent wotagei, okay? It's annoying and makes you stand out more than me.
+Is there a quick way to become popular?
+I don't know what I can do if I graduate from being an idol... It's no use writing on my resume that I used to be an idol.
+I know, I know, but I just can't stop looking at it... I'll try to limit the frequency.
+There is no need to write every single thing. It's annoying for the person being promoted.
+That's no good. You can't change the schedule you set.
+That is not allowed. The schedule you set up must be changed, or others will be inconvenienced!
+In case you haven't noticed, it's hard, you know? And if people don't show up, we don't make any money at all.
+It's not easy, you know? If people don't show up, we don't make any money at all.
+Wow, I know... I would never do that...
+It's okay. We would never do such a nuisance.
+If there was such a thing, everyone would be a star.
+That's... Not true. With such a method, anyone can become popular.
+I don't mind, do you? You can write "former idol. It's a good way to get people's attention.
+I don't mind if you write that you are a former idol. I'm sure there are some who would be interested.
+Is there an easy way to become a better singer?
+It looks like a member of that group is quitting.
+I'm getting tired of all the cover songs, so I'd like to hear some new ones if possible.
+Why do live houses charge for drinks in addition to the ticket price?
+Sales of goods directly contribute to my salary, so please keep buying!
+What is the difference between children who can become top idols and those who cannot? Is it talent?
+When I first stood on stage, I was moved in my own way... But now I don't feel any emotion anymore.
+I don't know... I guess the only way is steady effort.
+Oh... I see. It's a shame, because we had a surprisingly good talk.
+I get it. You just have to be prepared...
+Understood. I'll have it ready for you. Please wait for me.
+Good question. The short answer is, we're licensed to operate as a restaurant, so we have to serve drinks.
+Good question. The short answer is that I'm licensed to operate as a restaurant, so I have to serve drinks.
+I will continue to... Buy many, many more... I will... Support you...
+I will continue to buy many more and support them.
+Having talent is a prerequisite! I guess the big difference is how much effort you can put in on top of that. Good luck to you too!
+Having talent is a prerequisite. The difference is how much effort you put in. Please do your best!
+Well, isn't it like that when you get used to anything? Don't worry too much about it.
+I think whatever you do will become the norm once you get used to it. You don't need to worry that much about it.
+I listened to the song you recommended before. To be honest, it was not my taste in the genre, but it wasn't bad!
+Where did you take the pictures of the scenery you posted on your blog? I'd like to visit there too!
+What do you enjoy about being an idol manager?
+I decided to try something that was more like an idol, so I started baking sweets, and surprisingly, it was a lot of fun and I got hooked on it.
+Do you have any hobbies other than coming to see your idols perform live?
+After visiting a cat café with friends, the desire to work there grew...
+If you have any good stress relievers, I'd love to hear about them!
+Really? Then I'll come back to tell you if I have any more song recommendations.
+It's a popular spot for taking emo photos. I'll show you around next time.
+What's fun... Is watching you grow up.
+What do you enjoy... Seeing you grow?
+That's a good thing. I'm not much of a cook, so I admire you for being able to make sweets.
+That's good to know. I can't cook at all, so I respect that.
+Well... Anime and manga... Are my favorites...
+If it's not live music, I like anime and manga.
+Maybe you could get a part-time job. As long as you can balance it with being an idol.
+If you can balance your idol work with a part-time job, I think you can do it.
+A batting center is a good idea. You should go there too.
+The batting center is nice. It feels good, so go for it!
+I envy you for being able to learn the choreography so quickly. Perhaps you have been learning dance for a while?
+Why is popcorn at the movie theater so delicious?
+Lately I've been listening only to ani-songs for the cover songs I sing live...
+I have the image that you always eat expensive food, but how is it really?
+... You're acting suspiciously, you should fix that, right?
+So, job-wise, you get to listen to all the live music you want for free? I envy you!
+Do you have a thrill to play with?
+No, not particularly... I just always liked to imitate idols and used to dance a lot.
+Is it the atmosphere of the place? I'm not sure, but it sure tastes better than usual!
+That's a good thing. Keep adding more and more variations to your songs.
+You voluntarily increased the variety of your songs. You are very motivated.
+Hehe... It's pretty much as I imagined. Having good food is one of my favorite things to do.
+I think it's pretty much as I imagined. Receiving good food is one of my pleasures, so...
+I'll make an effort...
+Ugh... I'll try my best to fix it.
+I can't go to every concert, you know? Even if I did, I'd be working all the time. Huh...
+I can't go to every gig, you know? Even if I did, I'd be working all the time... Haha!
+That's gambling at its best.
+It is gambling, after all. Enjoy the thrilling moments!
+Have you seen this month's issue of that fashion magazine? The clothes featured in the magazine were designed to look good on you!
+All I do these days is window shopping... If I had the money, I could buy all of this and that.
+I am open to any and all recommendations. I'm having a little trouble finding material for my blog.
+Do you read comic books or something?
+You went to a ramen shop yesterday, right? Was it good?
+Oh... It smells so good. Lovely perfume.
+Why do adults drink alcohol?
+Really? If it suits me, I'll buy it... Oh, but it's rather pricey...
+I've been putting up with a lot too... Haha, I wonder when we will be able to live a money free life!
+Do something on your own. Don't ask me.
+That's your job, too. Do something about it on your own.
+Well, I'm sorry, but I'm not very familiar with it. I don't think I'll be able to keep up with that topic.
+I don't read much. Unfortunately, I don't think I'll be able to keep up with that topic.
+Oh... I'm so glad you saw my social networking site... The ramen was delicious...
+I'm glad you saw me on social media. The ramen there was delicious, so you can go there if you want!
+Oh, you know how good this is~? I'm so glad you like it!
+I'm glad I like this perfume. I usually don't get noticed by people...
+Of course it's because it's good. Also... Sometimes I can't do without a drink.
+Because it's delicious. Oh, and sometimes I just need to get drunk.
+Would you like to go to a restaurant if you like?
+Would you like to walk with me to the restaurant?
+Would you like to have tea at a cafe?
+Why don't you two go to a cafe?
+Can you come over now?
+Thank you. Thank you very much.
+... Okay, I understand.
+Excuse me, could you please come this way?
+... I'm sorry to hear that, but it can't be helped.
+Hi, thanks for your help.
+Can I talk to you for a moment?
+Can we meet outside now?
+Are you sure? Then I'm on my way.
+May I have a word?
+... Um, sorry.
+... Do you have a moment?
+Is... Now okay?
+If you like, we can have a little chat.
+I have a lot to talk about, would you mind keeping me company?
+Would you like to go with me... To the hotel?
+Why don't you stay at a hotel... And relax?
+Why don't you and I... Go to the bathroom?
+Would you like to go... To the bathroom with me?
+Can I ask you for a favor?
+Would you mind... Accompanying me for a moment?
+... Could you please come to the restroom? I'm trying to have some fun.
+I see that you can keep up with us, thank you very much.
+I'd like to hone my performance skills more.
+Don't get too passionate about the game, okay? We are entertainers.
+Which games are you good at?
+If you are not busy, would you be willing to play with me? I am sure you will be satisfied.
+Thank you for playing in our casino!
+Would you be willing to play with me once in a while for a break?
+I haven't received many tips lately...
+I think it is very good that you have ambition. I can't be outdone either.
+Yes, I know. We always try to make sure that our customers enjoy our services!
+I'm rather confident in my poker skills.
+Well... Yeah. Maybe we can play just to see what you can do.
+Well... It might not be a bad idea to play with it once in a while, just to see how good you are.
+No, no, thank you for always entertaining me.
+No, it's always been a pleasure for me, and I thank you for that!
+I'm here for work, after all... So I can't play often.
+Some people are so stingy. I'd give it to them with a bang.
+Let's see... Maybe all the thrifty people came. One of these days, there will be someone wealthy.
+Conversation with customers is also a part of my job... I have to take good care of my speaking skills.
+Are you a regular slot player... Losing a lot of money?
+I'm sure you know that... But cheating is strictly forbidden, okay?
+Is it time to bring in a new slot machine so we can have a new slot machine in stock? 
+Please follow the rules and have fun at the casino!
+You have the opportunity to talk to people from a variety of companies, so your talk skills are important in this job.
+Should I move to a bigger casino now?
+I think you are right. I'd like to improve my speaking skills too.
+Oh, it's that customer... I'm worried about him, but I can't interrupt him...
+I am well aware of that. I have no desire to cheat in front of that manager.
+I am very much aware of that. I have no desire to cheat in front of that manager, but...
+Maybe a new machine will attract more customers... Let's consider it.
+Maybe a new unit would attract more customers... I'll have to consider it.
+Yes, I know exactly what you mean.
+Yes, I am very much aware of that.
+No, not as much as the dealers.
+I don't know. If you're not happy, why don't you just quit early?
+I don't know all the details... But if you're not happy, I suggest you quit as soon as possible.
+Am I dressed neatly? I always dressed neatly because I didn't want to be disrespectful to my customers.
+Isn't it always thrilling to play the game?
+I heard a rumor that an international celebrity will be visiting us soon... Is it true?
+When a drunken customer was eager to break the slot, even I was impatient.
+Are you dissatisfied with our service?
+I wish you the best of luck with your sales.
+Sometimes I want to compete purely for the sake of competing, not for the sake of entertaining customers.
+It's okay. No problem.
+Yes, I think so. There is a sense of tension that comes from the fact that both sides are serious about the competition.
+Is that so? If you know the manager... You'll have to be even more enthusiastic than usual that day.
+It is part of your job to deal with such people. You should be able to deal with them calmly.
+It's part of our job to deal with such customers... So please do your best to handle them calmly next time.
+I have no complaints.
+No particular complaints.
+Haha, thank you very much. I feel like I'm getting lucky.
+Thank you very much. I feel like I'm getting lucky.
+That's good, isn't it? At least I think it's more flammable.
+I think it would be good if it was accidental. As for me, I think it would be more exciting and
+Does hot yoga really work? For me, it seems no different than regular yoga...
+I got a little excited and bought some expensive sparkling wine.
+Do you cook for yourself?
+Does the manager have any pets?
+Do you like horse racing, etc.?
+Bankers have an image of being busy, but do you have time for hobbies?
+What is your favorite casino game?
+What do you think? I don't know the details.
+That sounds great. I look forward to the day you open the bottle.
+Yes, I do it without fail. I like cooking a lot.
+I used to have some, but I don't think I have any now.
+We used to keep them, but we don't keep anything now!
+Yes, I like it. Basically, I like all betting.
+Yes, I like it. Basically, I like all betting.
+If it's not the busy season, there is more leeway than you might think, so you should be fine.
+Slots, of course. Someday I'm going to win the big bucks, so be prepared.
+Naturally, it's slots. It's the best because you can dream of winning.
+I've recently been thinking about buying a record player.
+Do you ever play poker games as a hobby rather than for work?
+What do you usually do on your days off?
+I'm looking for a good drink, any suggestions?
+What do you spend the money you get from winning the game?
+Do you have the opportunity to travel?
+Apart from playing in the casino, what else do you like to do?
+Actually, so have I. I've been looking for... For a variety of things, but I can't seem to find a favorite!
+I got into this job because I love it, of course. I often hang out with my friends.
+I often play at dart bars. I like to play darts.
+Old vintage wine. Older doesn't always mean better, so find out in advance what the winning year is.
+Old vintage wine. But older does not always mean better, so be sure to research the right year!
+Most of the time you're eating expensive meat. Combined with the winning spices, it's really delicious.
+Most of the time we eat expensive meat. Combined with the winning spices, it's really delicious!
+We always need to take a long vacation once a year, so we travel then and there!
+Booze and cigarettes.
+Alcohol and cigarettes.
+I read his autobiography the other day and found it very informative. I hope you will read it too.
+I enjoy collecting antique goods.
+My friend likes to have parties and often throws them... I'm always worried about what to bring as a gift!
+Where are you going on vacation this year?
+It's funny that I should say this, but... Don't get too carried away with your betting, okay?
+Do you watch foreign dramas?
+You seem to drink a lot. Which drink do you like best?
+Sounds very interesting. I'll have to read it when I get a chance.
+It's nice, antiques. It has a nostalgic and somehow warm atmosphere, I like it too!
+A little nibble might be enough.
+I haven't narrowed down my choices yet... Might be a good idea to take it easy in Japan.
+I haven't narrowed down the candidates yet... Maybe it would be better to relax in Japan instead of going abroad this time!
+I think I'm trying to be moderate... But I'll be more careful.
+I think I'm trying to be moderate... But I'll be more careful.
+I do watch it. I'm just not good at watching them for relaxation, so I have an accumulation of unwatched dramas...
+I like everything... But if I had to pick one, I'd have to say tequila.
+I like everything... But if I had to pick one, I'd say tequila.
+If you would like, we can go to the restaurant.
+Sorry, I must decline...
+Thank you for the invitation. I will be happy to accompany you.
+All right. Let's go out.
+If you're going to go, go alone.
+Great. Let's go.
+I'm sorry, it's just not a good time.
+Yes, I will go with you.
+I'm sorry... I'm afraid I must decline this time.
+Would you like to have dinner at a restaurant?
+If it's okay with me, I'll go out with you.
+I'm sorry, but I can't go out with you at...
+I'll go out with you if it's okay with me.
+Great, I'll go out with you.
+I am sorry, but I must decline.
+I see no reason to refuse your invitation.
+I'm not going out with you.
+I'd be happy to go with you.
+I'm sorry... I'd be happy to invite you back some other time.
+I will be happy to join you.
+I'm a little inconvenienced... Sorry.
+If you like, we can have tea at a cafe.
+Would you like to go to the cafe with us?
+Why don't you spend some time in the park?
+I feel like talking to you in the park... How about it?
+Excuse me, could you please come this way?
+... I understand. I'm sorry, but I don't have a choice.
+I'd like to ask you to come over for a minute...
+I see that you are coming. We are waiting for you.
+So it's hard to do right away... I understand.
+Thank you for all your help.
+I'd like to ask you a few questions...
+Thank you very much. I'll be on my way.
+I would like to borrow some money...
+I understand. I'll lend it to you.
+I am sorry, but I must decline.
+What's wrong?
+Yes, how can I help you?
+Can I help you?
+Can I help you?
+You wanted to see me?
+Oh, is that me?
+Can I help you?
+Now, will it be okay?
+I'm sorry... No thanks.
+I don't care.
+Not now.
+I'm sorry... It's just... It's not a good time.
+I am sorry, but we cannot accept your request.
+Is your time okay?
+I am sorry, but we cannot accept your request.
+I'm afraid I have to decline.
+I don't have time for this.
+Not a problem at all.
+I'm just... Sorry.
+No problem. 
+If you like, we can take the time to talk.
+No problem. We'll go out with you.
+I'm not in the mood... Sorry.
+I'd be happy to go out with you.
+I am sorry, but if you could reschedule the timing...
+Yeah, no problem.
+I'm sorry, but if we could talk about this another time...
+I'm not in the mood.
+I'm sorry, I'm kind of in the middle of...
+I'm sorry, but right now I'm a little...
+I would like to talk with you a lot.
+Well... Why don't we go to a hotel?
+... Yeah, it's okay.
+I am sorry, but I must decline.
+I'm sorry, but I can't keep you company.
+... Okay. Let's go out.
+Refuse
+... I understand. All right.
+Well... I'm afraid I must decline.
+I understand.
+How about a little rest at the hotel?
+I understand... I'll go out with you.
+... Yes, that's fine.
+Uh... Sorry about that.
+I understand. Let's go out with you.
+You can go out with me, but don't... Bore me.
+What are you talking about? I'm not going out with you.
+I'll go out with you if it's okay with me.
+No, no, no... No, I refuse.
+... To keep you company.
+I am sorry. I am unable to associate with you.
+Would you like to go to the bathroom with me?
+Now I'm a little...
+As I said, I can't do it now...
+I can't socialize with you right now...
+Huh... Think about timing.
+No, no, no, no, no... I can't do that right now...
+Now I'm in trouble...
+I would like to ask you a few questions...
+May I take a moment of your time?
+Can you come to the bathroom? I'd like to have some fun with you.
+I'm sorry, but I understand...
+Are you okay now? I mean, I'm not going to make it worse.
+I got a lot of tips the other day.
+After all, it makes us happy when our customers enjoy our products.
+There was once a customer who won so many games in a row that the manager couldn't help but pull a face!
+I have a slot machine that has been malfunctioning excessively... Shouldn't I replace it?
+Do you ever make a wish before a game?
+Would you like to try your luck and play a game with me? If you beat me, we might have a good business meeting, right?
+I just need a little more... Paycheck...
+I have to thank my customers.
+Yes, I am. I intend to hone my skills more and more so that I can please you even more!
+Really? I wish I could have been there...
+... Is it wiser to deal with the hassle before it happens? Let's not be stingy and buy new ones.
+Well... We'll replace it before it happens.
+You visit power spots. Luck is important.
+I do visit power spots. Because luck is important.
+That's a horrible way to lose... Sorry, but I'm afraid I'll have to pass.
+If you want money, you should get rich playing slots too.
+If you want money, you should try to get rich at the slots!
+I have heard that in the past it was possible to drop the ball on a target number, is this true?
+If you're not careful, you can get carried away with the game.
+What made you decide to become a dealer?
+Our guests loved the interior of the casino!
+What games would you like to see in a casino?
+You always seem to be busy.
+There is always a lot of pressure on me because I can never make a mistake in front of a customer...
+I've heard that you could have done it if you honed your skills due to the construction of the wheel, but I don't know... The details.
+Me too. When I first became a dealer, I used to get angry a lot!
+As is often the case, I still like to gamble!
+Kuk... Of course, right? I designed it myself.
+I came up with the idea, and I'm happy to receive compliments from my customers!
+Hmmm... Personally, I think it would be fun to play hanafuda (Japanese playing cards) or something like that...
+Well... Personally, I think it would be fun if we could play Hanafuda or something like that.
+I am sorry for causing you concern. I am still a strong person, so there is no problem.
+Well, that's the way it is. You know, every job has pressure, and you're not the only one who has a hard time.
+I don't think that's an option. There is pressure in every job, so do your best to bounce back!
+As usual... It's a little more bearable when a customer yells at you after a big loss.
+Don't you get nervous when a customer bets a large sum of money?
+Oh, and by the way, I think the stock of playing cards is running low...
+Are there any plans to build a new casino?
+I am always happy to accept a match, so please feel free to contact me!
+Like us dealers, your calculations are very important, aren't they?
+I got this job because I love it... But lately I've been thinking that maybe I would have been better off just being a customer...
+I understand exactly how you feel... We just have to let it go.
+I know exactly what you mean. I always try so hard not to show my nervousness.
+I have informed the manager, so you should be fine.
+I haven't thought about it at the moment. If I were to make a new one, it would be when I get a flash of an idea.
+I don't think we have any ideas at the moment. I don't have any ideas for new casinos.
+Let me challenge you when your luck comes your way.
+Calculations are important... Sometimes I break out in a cold sweat when I can't make ends meet!
+If you feel like quitting, quit. It's better than hating something you loved.
+I think it is better to quit before you start hating something you liked. Personally, I agree.
+Since I bought the pressure cooker, I enjoy cooking more and more!
+I would like to travel abroad, but my schedule doesn't work out with my friends...
+I went to an owl cafe with a friend and it was really powerful to see them up close!
+A friend of mine started organizing things and threw away most of what he had in his collection!
+How long have you been playing in the casino?
+I was once invited to go skydiving, but my fear got the better of me and I refused.
+What is the difference between a regular cigarette and a cigar?
+That is wonderful. It looks like it could be used in many different recipes and I would love to purchase some!
+I understand... We can get together for lunch or dinner quickly, but traveling is difficult.
+An owl, interesting. I would love to visit there too!
+Uh... You mean the minimalist thing? I don't deny it, but that's a behavior I just don't get.
+I don't mean to be negative but... This is behavior I just don't understand.
+Influenced by a family member who was a gambler, I started playing as soon as I grew up.
+I started playing as soon as I grew up, partly due to the influence of a family member who was a gambler.
+Even though we know that accidents rarely happen, we still cower!
+Cigars don't let smoke into your lungs. That's the biggest difference.
+Cigars don't let smoke into your lungs. I guess that's the main difference.
+I like to run while listening to music.
+I've been loving ordering sweets lately.
+Have you always had a hobby?
+Does the manager also watch dramas?
+What is your favorite alcoholic beverage?
+Do you like chess? In spite of appearances, I'm good at it.
+Do you like to watch sports?
+Me too. I feel so refreshed while running!
+Then there is a store that carries delicious Daifuku fruit. Please try ordering from us!
+All my life... I've loved reading since I was a little girl.
+Drama? I haven't seen one in a long time.
+Drama... Haven't seen it in a long time.
+I like anything as long as it's high in frequency.
+I like anything with a high alcohol content.
+I have no experience playing... But I would like to try it if I have the chance.
+I don't hate it. Watching sports over drinks is good entertainment.
+I like it. Cheering them on over drinks puts me in a good mood!
+Is there anything you are into these days?
+Have you ever been to an art museum? You will be impressed when you touch a real work of art!
+A customer recommended me a good restaurant that just opened at the next station.
+Do you have many cars after all?
+Have you ever been to a casino outside of your country to play?
+When I look at mail order sites, I end up buying all sorts of things!
+Do you drink only alcoholic beverages with high alcohol content?
+Is it smoothies? I make them at home a lot.
+I have been there several times to see the paintings in the company of friends who love them!
+I went there. The gibier dishes were especially good, so please order them!
+Oh, yeah. I'm especially fond of muscle cars... And in my spare time I like to look at my collection.
+Yes, I do. I especially like muscle cars and look at my collection in my spare time!
+Yes, I've been there. I had fun everywhere, but I didn't win... At all!
+Yes, I've been there. I had fun everywhere... But I didn't win at all!
+The Internet is full of temptations, so I think I understand a little how you feel.
+Are you worried about me? I don't drink enough to worry about that.
+I don't drink that much, so I'm not worried about it.
+If you like, we can have dinner at the restaurant.
+Would you like to go to that... Restaurant with me?
+Um, would you like to have a cup of tea at a cafe?
+If you would like to join us, why don't you go to the café with us?
+Would you like to talk in the park?
+If you like, why don't you spend some time in the park?
+If your time is okay, could you please come here?
+Are you sure? Then, I'll be waiting for you.
+Could you please come here now?
+I understand... No, please don't worry about it.
+Thank you for all your help!
+Excuse me, I have to ask...
+I'd like to talk to you outside now...
+Thank you very much. Well, I'll see you later.
+Can you lend me some money?
+Are you okay now?
+Will you please stay with me and talk about my story?
+We have a lot to talk about... Would you like to join us?
+Well... If you don't mind, why don't we go to a hotel?
+Would you like to take a... Break at the hotel?
+Um... Would you like to go to the bathroom with me?
+If you like, you can go to... To the restroom.
+Would you like to join us for a few minutes?
+I have a favor to ask...
+Could you please come to the bathroom? I... Want to have some fun.
+Ah... You are not in the mood for that...
+Do you have a minute? I won't do anything wrong, so...
+I wish I had a lot of spending money...
+You're always working, great job! Thanks for all your hard work!
+Oh, yeah, you want to play Shiritori?
+Don't be selfish... If you really want money, get a real job.
+It's not good to be selfish! If you really want money, work diligently.
+Haha... Thank you. It's kind of embarrassing to be praised for something so obvious...
+Thank you. I'm glad you appreciate the compliment!
+What's so funny about that... I'm not going out with you.
+Are you trying to pass the time with me? I'm not going out with you.
+Huh... Cleaning is troublesome... I don't want to do it
+Is the new juice in stock?
+Are you working properly?
+Don't make me do it just because it's a hassle, okay? You clean up after yourself.
+Don't force me to do it just because it's a hassle, okay? Make sure you clean up after yourself.
+Yes, we have them in stock! Just place your order and we'll get it to you right away!
+Yeah, it's in stock! If you buy it, I'll see if I can get it to you right away.
+... Looking for unemployed friends? I'm sorry, but I'm not one of your kind.
+... Looking for a fellow unemployed person? I'm sorry, but I'm not one of your kind.
+After all, home is the most comfortable place...
+Do you enjoy working diligently? Isn't it hard work, carrying heavy loads?
+... Sometimes, I wonder if it's okay to keep doing what I'm doing...
+I know how you feel... But you stay home too much
+I know exactly how you feel... But in your case, you're home too much.
+It's fun! Yes, it's hard work, but I like to move my body, so it's not hard for me.
+It's fun! Sure, it's hard work... But I don't mind moving my body that much.
+... I guess even you think like that. Well, just go for it.
+... I guess even you think like that. Well, you should just go for it.
+What are you doing out there playing?
+What do you do on your days off~?
+What are you into these days?
+We'll watch a movie, have dinner, and all sorts of things... If you care, you can follow me too.
+We watch movies, eat dinner... Well, we play a lot. If you're interested, you should come along.
+I run, I go to the gym.
+I wonder if they run or go to the gym~!
+You know what I've been into lately... Boating.
+I guess I'm into boating these days.
+I wish I could borrow some of the comics you've finished reading...
+What kind of manga are you reading~?
+Do you read manga or something?
+I don't mind, but you better pay me back.
+I don't mind, but make sure you return it.
+You are reading a popular work that has been animated or something! They're consistently interesting.
+I guess I read popular works that have been animated or something! And they're consistently interesting.
+Yeah, I read. I especially like gambling comics.
+Yes, I'll read it! I especially like gambling manga.
+Let me know what videos you recommend. I'll watch it to pass the time
+I wish I knew what to recommend.
+Where do you usually play?
+The cat video that was buzzing around the internet was hilarious
+The cat video that was buzzing around the internet was hilarious!
+I can highly recommend the juice that just arrived the other day!
+I can quite recommend the juice that just came in the other day!
+Casinos. Gambling is what I live for.
+Casinos. Gambling is what I live for.
+Do you want to go to a restaurant with me?
+Yeah, okay.
+Yeah, yeah, that sounds great! Shall we go together?
+Well, I don't mind.
+I'm sorry, but I can't go out with you.
+Ummm... Sorry.
+No, thanks. I'll pass.
+Great. Let's go out.
+Uh... Sorry...
+I'd love to go to a restaurant with you... No?
+All right, I'll go out with you.
+Okay, I'll go out with you.
+Well... Let's go out.
+Sorry, let me decline this time.
+I'll pass.
+Um... Sorry, no thanks.
+I'm sorry... Let me decline for a moment.
+Wanna go to a cafe? I'm in the mood.
+Do you want to go to the cafe with me?
+Would you like to go to the park with me?
+I want to go to the park. What do you think? I think it would be fun.
+If you have time, I wish you'd come over here!
+Hey, can you come over to my house?
+Thank you. I'll be waiting.
+... Well, I guess I don't have a choice.
+I'd like you to come over now... Okay?
+I need you to come over...
+Well then, nice to meet you.
+Oh... I see... Too bad...
+I just wanted to ask you...
+I need you to listen to me for a second...
+Are you sure you're okay with the time? I need to see you. I need to talk to you.
+Thanks. See you later.
+Well, if you're busy, I don't blame you.
+What is it? What's wrong?
+Hmm? What do you want?
+What's wrong?
+Hey, is this a good time?
+What's wrong?
+Hmm? What is it?
+What is it?
+Time, okay?
+Well, okay.
+Sorry, I can't.
+Ummm... Sorry.
+I'm... I'm sorry.
+Do you have time?
+No problem.
+Hmm? It's okay.
+Hmmm... Okay!
+Sorry...
+I'm sorry, but it's just - I don't know...
+I'm sorry, but I can't.
+No problem at all.
+Can we talk a lot?
+Yeah, yeah, yeah, okay.
+Hmmm... Well, okay.
+Sorry, but we'll have to chat another time.
+Ummm... We'll chat another time.
+Well... I don't feel very good.
+Not at all!
+Well, now I'm a little...
+Why don't you two have a long chat?
+Hey... Do you want to go to a hotel?
+Well, I'll go out with you.
+Um... Okay, I'll go out with you.
+Well, okay.
+I don't think I can go out with you for a minute.
+I think I'll pass.
+I'll pass on that.
+Ha, yes... It's okay.
+Uh... Sorry...
+Would you like to go to a hotel with me? No?
+Yeah, I don't mind.
+Yeah, I'll keep you company.
+I refuse to do that.
+That's... Sorry.
+I don't know if I can go along with that.
+Okay, I'll go out with you!
+It's... Sorry...
+Would you like to go to the bathroom with me?
+You know what, why don't you go to the bathroom with me?
+No, he said he can't right now...
+Not now.
+He said he can't do it now...
+No, I'm in trouble...
+Let me ask you something...
+Do you have a minute? I need a little favor...
+Hey, hey, can you come to the bathroom?
+Glad to hear a good response~!
+... You're not in the mood.
+I think we humans need a break!
+What makes you work so hard?
+Do you ever get so bored sometimes that you feel like your heart is dying?
+That's true... But I don't think you should take too much time off.
+Yeah, yeah, yeah! But I don't think you should take too much time off.
+Hmmm, that's a difficult question... Hmmm... Maybe it's because there are so many opportunities to be thanked and pleased in some way...
+That's a tough question... Hmmm... I guess it's because I have so many opportunities to be appreciated and appreciated for whatever reason!
+Ah... Yes. I get that feeling all the time when I'm broke.
+Ahhh... Yes, there is that. I often feel that way when I'm short of money.
+I wish I could live this lazy life...
+They carry alcohol and other things, but aren't they heavy?
+How many days can you stay up all night?
+Do you think... Would allow me to do that? You need to be sharper than that.
+... I know how you feel, but you need to be more crisp!
+Don't worry, I'm pretty strong!
+I'm pretty strong. That's why I'm fine.
+Yeah, I think we can make it three in a row.
+Hmmm... I think three in a row would be good...
+I'm not motivated at all...
+It's great that you carry heavy things to various places. I can't imitate you.
+What's the most fun you've ever had?
+... Looks like you're going to have to beat that guts out of you.
+This... May need a little spanking.
+Thanks for the compliment! We'll keep working on it!
+Thanks for the compliment! Keep up the good work!
+That you could have made a lot of money gambling.
+I guess I could have made a lot of money gambling.
+What kind of music do you like~?
+Are you good at sports?
+What kind of games are popular now?
+It's a song by an artist I've always liked. The songs you're used to hearing are the best.
+I guess it's a song by an artist I've liked for a long time. After all, familiar songs are the best.
+I can't say I'm good at it, but I like to move my body.
+I can't say I'm good at it, but I surprisingly like being physically active!
+What? That's gambling.
+A trendy game? That's gambling, of course!
+Are you still playing that phone game I recommended before?
+Do you watch TV?
+Do you like karaoke?
+Well, sort of. I just log in every day.
+I log in every day, just in case!
+I see it often! It's a good topic for conversation.
+I see it a lot! It's good for conversation.
+I don't hate it. Singing is a good way to release stress.
+I don't hate it. Singing is a good way to release stress.
+Don't you want to live only on snacks?
+Do you play games or something?
+I'm so lucky to have been born in a time when there is so much entertainment like this!
+No, I don't think so at all. And I don't think you'll find many people who can relate to that.
+Well... Maybe I can't relate to that one.
+I'll do it, I'll do it! Whenever I have free time, I often play with my phone.
+Of course I'm playing~. I play with my phone as soon as I get some free time.
+Well, yeah. I wonder what they did when there was less entertainment. Gambling, I guess.
+Yeah, that's right! I wonder what people did when there was not much entertainment! I guess gambling.
+I want to go to a restaurant. Do you want to go with me?
+Wanna go to a cafe?
+You want to go to a cafe with me? Wouldn't that be nice?
+Do you want to go to the park with me? No?
+Let's go to the park together~. No?
+I want you to come over here now... Okay?
+You know what, why don't you come over to my house?
+I'll be waiting for you.
+Huh, too bad...
+Come over here for a minute!
+I need you to come over to... For a minute, okay?
+Well, hello.
+Ehhhh... I can't do it...
+I just wanted to make sure...
+Hey, can we talk outside?
+Thanks. Well, I'm on my way.
+Hey, you know what?
+Time, okay?
+Can we have a little chat?
+Why don't you and I have a nice little chat? No?
+Can we go to the hotel for a minute?
+Why don't you and I go to a hotel?
+Would you like to go to the bathroom with me?
+Do you want to go to the bathroom with me?
+Well, do you have time?
+Can you do me a favor?
+I'm in the bathroom... Can you come here for a minute?
+You're coming? I'm glad you're here.
+... They won't come.
+Where did you put the documents from the other day?
+Where did you put the documents during this time?
+The last time I called you, you weren't bad.
+The last time I called, the response wasn't bad.
+Where are the documents from the other day?
+Where are the documents from the last period?
+Do you have a spare air purifier filter?
+Do you have spare filters for air purifiers?
+I hear this product is quite a hit.
+It's all in a file and tucked away on a bookshelf.
+Thank you very much. I'll keep up the good work.
+It's tucked away on a shelf in the back.
+It's okay. I restocked the other day.
+Thanks to you, we are getting a good response.
+Are you ready with the materials for the upcoming meeting?
+Are the materials ready for the upcoming meeting?
+Are invoices for replenished equipment compiled?
+Are invoices for replenished supplies compiled?
+I want you to be the main person to go ahead with the next presentation.
+You should be the main person to proceed with the next presentation.
+Can you give me some tips on how to clean up the mess.
+Could you give me some tips on how to clean up?
+It would be helpful if you could turn in next month's bill a little earlier.
+Yes, it's all put together and finished.
+If you want to send the documents to accounting, I've put them together for you.
+I understand. I'll do my best to move forward.
+Put what you use back in its proper place, and there will be no clutter!
+I understand. We will proceed with the procedure as soon as possible.
+The other day, the tea service was well-received by my clients.
+The other day, my clients loved the tea service!
+Was that case a little difficult?
+Was that project a little difficult?
+I got an estimate the other day, that's what got my application approved.
+I got an estimate the other day, that was the application.
+Thanks to you, my office is always clean, thank you.
+Thanks to you, my office is always clean, thank you!
+If you need me to monitor new products, I'm always willing to help.
+Yes, I'm glad you were pleased with it.
+No, I had read the material thoroughly, so there was no problem.
+Roger that. We'll proceed as is.
+No need to thank me, it's my job.
+Thank you very much. Let me tell you more about it next time.
+Golf is fun, and it's good for your health.
+Golf is fun and healthy!
+I think golf is fun and good for your health!
+Watching a movie at home is nice, but I still enjoy it more in a movie theater.
+Watching a movie at home is fine, but it's more fun to watch it in a movie theater.
+Maybe we can play golf together sometime?
+Would you like to play golf with us sometime?
+What do you do on your days off?
+What do you do on your days off?
+Let's play 18 holes together again!
+Yes, I'm interested and would like to try it sometime.
+I too prefer to watch it in a movie theater because it's more powerful.
+Golf... Sounds great, I'd love to join you!
+I often go for walks to get away from distractions.
+If it's okay with me, I'm always willing to go out with you.
+On my days off, I'm all about cooking for myself.
+I'm into cooking for myself on my days off.
+Are you interested in watching sports?
+Are you interested in watching sports?
+What kind of movies are popular these days?
+Interested in sports?
+Are you interested in sports?
+We'll arrange your next meal.
+We will arrange your next meal.
+I see that you cook. I think it's a very good hobby.
+I've never really watched sports and I don't know... Much about it!
+Animated movies are very popular. It's surprisingly funny, so watch it if you like!
+I like to watch the games. I'm not so good at doing it...
+I like to watch the games. I'm not so good at doing...
+Are you sure? I'm sorry. Thank you.
+I've been stopping by the gym on my way home from work lately.
+I've been stopping by the gym on my way home from work lately.
+How do you spend your days off?
+How do you spend your holidays?
+Have you bought any books lately?
+Do you drink alcohol?
+Do you drink alcohol?
+I have a restaurant that I would love for you to go with me.
+Exercise is important and it's a very good thing!
+I often go shopping. I'm looking for pretty little things.
+I like to read, so I buy a lot of books. But lately I only buy e-books.
+Yes, I do drink. Mostly beer.
+Is this a new restaurant by any chance? That would be interesting.
+Wanna go to a restaurant?
+Would you like to go to a restaurant?
+Why don't we have dinner at a restaurant?
+How about a meal at a restaurant?
+How about a smoke at the café?
+Would you like to have a smoke at a cafe?
+Let's go to a cafe and take a break.
+Why don't you go to a cafe and take a break?
+Would you like to go to the park with me?
+Would you like to go to the park with us?
+What do you say? How about we go to the park for a diversion?
+What do you think? Would you like to go to the park with me?
+Can you come over here for a minute?
+Could you please come this way for a moment?
+Thanks, that helps.
+Well, you can't come...
+Thank you very much, that helps.
+Uh... No, if you can't, that's okay.
+Sorry, can you come over here?
+I'm sorry, sir, you came all the way over here...
+You're coming. Sorry.
+You have something to do...
+Is there something else? Oh, I see.
+I would like to ask you a few questions...
+I just want to make sure that...
+Can we meet now?
+Got a minute?
+Got a minute?
+May I have a moment?
+Are you okay now?
+Now... Is that okay?
+Do you have time?
+Can't we just sit down and talk about it?
+Why don't we have a long talk?
+I have a lot to discuss with you, okay?
+Would you please listen to me?
+Would you like to go to a hotel with me?
+Would you like to go to a hotel with me?
+I don't know. Why don't we go to a hotel?
+What do you think? Would you like to go to the hotel?
+Would you like to walk with me to the bathroom for a minute?
+Would you like to join me in the restroom for a moment?
+Wanna go to the bathroom with me?
+Would you like to go to the bathroom with me?
+Can you come to the bathroom?
+Then I'll be waiting.
+... Well, I'm sorry to hear that.
+I'm sorry...
+Can we prepare that document again later?
+If you have a difficult case, ask me anything.
+I've arranged for materials for next week's presentation.
+After all, professionals have different cleaning techniques.
+Please send me some more catalogs from the other day.
+No problem. You don't have to rush.
+Thank you very much. I will ask you then.
+Well, thanks for the help.
+Well, thank you for your help.
+Thank you very much. I'm glad to hear you say that.
+Okay, I'll make the arrangements.
+I have turned in last month's invoices to Accounting.
+I found the material you're looking for.
+I have prepared the minutes of the recent meeting.
+We, too, will take care to use the office cleanly on a regular basis.
+This is last month's estimate, can you do something more about it?
+Thank you very much. You've been very helpful.
+That's great. Let me see it later.
+Thanks. I'll look it over.
+Thank you very much. I will look it over.
+That would be... You'd be out of my business.
+Well I'll try to learn a little more.
+I guess that deal is gone after all.
+Did you already receive the quote in the example?
+Next time, please give me your stamp of approval on that document.
+Do you have any tips on how to clean it up?
+The machine I bought last month is not working well, can you take a look at it sometime?
+Really? That's a little disappointing.
+Yes, I already received it. I checked too.
+Okay, I'll remember to push it.
+I understand. I'll remember to press it.
+The only thing I can say is... Choose the right tools.
+Okay, I'll take a look next time.
+Which season do you prefer, summer or winter?
+What genre of movies do you watch?
+Have you made plans for the upcoming holidays?
+Do you have any hobbies?
+The restaurant you told me about the other day was delicious!
+If anything, it's winter. I like the cold, bracing air.
+I'm not particular about genres. I want to see all the films that are being talked about.
+I'm thinking of going golfing. Hopefully the weather will be nice.
+I am thinking of going golfing. Hopefully the weather will be nice.
+At best, I play games on my phone.
+I am glad to hear you say that. I will let you know again.
+Can you eat spicy food?
+What kind of food do you like?
+Have you seen any movies lately?
+Do you like movies?
+Are you interested in solo camping?
+Yes, you can eat it. In fact, I think I might even like it.
+I like sweets. I often visit sweets shops.
+I haven't seen the movie... Haven't had the time.
+I've been so busy I haven't seen the movie...
+I rarely watch movies... All I do is stay at home and watch TV.
+Well I'd like to give it a shot.
+Do you like sports?
+What are you hooked on these days?
+There's a new pub in front of the station.
+Do you prefer Japanese or Western food?
+What is your favorite sport?
+I like to watch and play sports.
+I'm into collecting character key chains.
+That's great. I'll go with you next time.
+That sounds great. Let's go there together sometime.
+If anything, it's Japanese food... I prefer fish to meat.
+If I want to watch, it's soccer. If I want to play, it's table tennis.
+Would you like to dine at a restaurant with us?
+Why don't you relax at the cafe?
+Would you like to go to the park with us?
+Could you please come this way?
+... If it seems too difficult, that's okay.
+I'm sorry. Thank you for your help.
+So it's hard to do this right now... I understand.
+I just wanted to confirm a few things...
+Can we meet with you now?
+May I have a moment?
+Why don't we have a long talk once in a while?
+I'd like to chat with you a lot, okay?
+Would you like to go to a hotel with me?
+Would you like to... Go to the bathroom?
+If you don't mind... Would you like to go to the bathroom?
+I'm in the bathroom... Can you come over?
+I'll be waiting for you then.
+... I'm sorry to hear that.
+They say people who are well groomed are also good cleaners.
+There were candy scraps around my desk the other day.
+I replenished the locker stain remover during this time.
+They say people who can use clean work tools get ahead.
+Thanks for your work today.
+If the professionals say so, then they must be right.
+Sorry. I guess I spilled it.
+Thank you. You've been a great help.
+Thank you very much, that helped a lot.
+So that's what you're talking about. In my case... Maybe I should just take care of my computer.
+Thank you very much. I appreciate you cleaning up too.
+Are you a clean person?
+The golden rule of organization is to put things back where they belong after you use them!
+The other day, the mirror on the vanity was dirty, so I polished it.
+I'll let you clean out the trash next time.
+Thanks to the machine we installed the other day, we've reduced the amount of trash.
+Which may be true.
+After all, those basics are what is important. I'm learning a lot.
+Thanks for your efforts and best regards.
+Thank you for your time and we look forward to working with you again!
+Sorry, that helps. I'll do it myself next time...
+I'm glad I could be of help.
+The cleaner your office is, the better you'll feel at work.
+Thank you for restocking our cleaning supplies!
+Garbage bags were getting low, so you'd better restock them.
+I'd like to soot the ceiling of my office next time.
+It's always tough to have so many catalogs!
+I understand. I know that clutter makes me feel uncomfortable.
+Oh, yes. And by the way, I restocked it.
+Okay. I'll let the general manager know.
+I understand. I'll let the general manager know.
+It might be dirty, and you might want to do that.
+No, no, this is my job... I'm used to it.
+What kind of books do you read?
+What are your hobbies?
+Do you do any exercise?
+What sports do you like?
+What kind of restaurant would you like to have a drink?
+Mostly novels. I like mysteries.
+I collect small things. Right now I'm into collecting key chains.
+If I'm not practicing golf, I'm at the gym.
+When I'm not practicing golf, I go to the gym.
+I like all kinds of sports. I watch a lot of baseball and soccer.
+Stylish bars are nice, but red lanterns are hard to throw away!
+Do you play video games?
+Do you go to theme parks?
+Do you drink a lot?
+How do you spend your holidays?
+What kind of TV programs do you watch?
+I haven't played many video games. I haven't had a lot of opportunities.
+I go often. I really want to go more, but I don't have time...
+I drink almost every day. Mostly whiskey.
+I drink almost every day. Mostly whiskey.
+Lately I've been going camping with my friends.
+Mostly variety and news.
+Are you taking care of your health?
+Do you play games often?
+What books have you read recently?
+Are you interested in video games?
+What kind of games do you usually play?
+I take care in my own way. My body is my capital.
+I do. When I have free time, all I do is play games on my phone.
+I read a novel based on a popular drama.
+I read the novel based on the popular drama
+I don't play video games very often. Sometimes I just play them to kill time.
+I often play puzzle games that I can do in a short time. It's just a good way to pass the time.
+Would you like to go to a restaurant with us?
+Would you like to accompany us to the restaurant?
+Would you like to take a break at a cafe?
+Would you like to go to a cafe with us?
+Would you please accompany me to the park?
+Could you please come now?
+... I'm sorry to hear that, but it can't be helped.
+Excuse me, I need you to come over here...
+That's very helpful. I'll be waiting for you.
+... You can't come, can you? I understand.
+I would like to ask you a few questions...
+Excuse me, I need to confirm something...
+Do you have a moment?
+Now is... Okay?
+Why don't we have a little chat?
+Would you like to have a nice chat? I have something to tell you.
+Would you two like to go to a hotel?
+Would you like to go with me... To the hotel?
+Would you mind following me to the restroom?
+I'm going to the bathroom... Would you like to join me?
+I'm in the bathroom, could you please come?
+Are you sure? Then I'll wait for you.
+I'm going to be very blunt, but if something happens to a patient, let me know right away.
+I'm going to put my foot in my mouth... If you have any problems with a patient, please let me know right away.
+I heard you're taking the initiative to organize the medical records. That's very thoughtful of you - thank you.
+I heard that you have taken the initiative to organize the medical records. Thank you for everything.
+How are you doing? I'd be glad to know if there's anything unusual, no matter how small.
+How are you doing? Please let me know if you notice anything unusual, even the smallest detail.
+There's nothing wrong with walking out freely, but don't overdo it.
+There is no problem to go out freely, but please do not overdo it!
+You have a great work ethic. I'm impressed.
+You have a great work ethic. I wish I could learn from you.
+Yes, I understand.
+No, I'm just doing what I can. Thank you for all your hard work, doctor.
+I'm doing better since seeing the doctor. Thank you.
+I'm doing better since seeing the doctor. Thank you.
+I understand. If I overdo it and prolong my stay in the hospital, I will be severely scolded by my boss.
+I understand. If I push myself and prolong my hospital stay, my boss will scold me...
+I'm glad you appreciate the compliment.
+Did you notice any change in the patient's condition?
+Has the patient's condition changed?
+Are you communicating well with your patients?
+Do you communicate well with your patients?
+Do you have any concerns about any part of your current treatment?
+Are there any areas of your current treatment that you are concerned about?
+Is there any change in your body so far?
+Has your body changed so far?
+To be honest, how much insurance have you been able to sell so far?
+I know this is hard to ask, but... How many have you had join so far?
+I was watching him closely and he was fine.
+I'm working on it... But I don't know if I'm doing it right.
+No, it's okay, I've had it explained to me thoroughly.
+No, it's okay, you explained it well.
+Yes, I have. Nothing much has changed since then.
+Well... I can't answer those questions.
+Thank you for always being there for your patients. You've been very helpful.
+Thank you for always being there for your patients. You are very helpful.
+Are you studying hard every day?
+Do you study hard every day?
+I know this is hard for you, but I'd ask that you refrain from drinking while you're taking it.
+I know it's hard, but please refrain from drinking alcohol while taking it.
+Try not to go too far out of your way.
+Please try to avoid going out to far away places!
+Do you have any tips on how to get people to join?
+Do you have any tips on how to get people to join?
+It's what I like to do... But I'm glad to hear the compliment.
+Yes, I am... I'm just a little worried about whether I'm learning it properly...
+Yes... I know. I know, but... It's hard.
+Yes... I know. I know, but... It's hard.
+It's okay. I don't want to get hurt either...
+It's okay. I don't want to hurt you either...
+Listen to them in a friendly manner. It is not a good idea to go in for a hard sell.
+It is important to listen to them in a friendly manner. It is counterproductive to go in for the hard sell.
+I've actually recently taken up strength training.
+Actually, I recently started muscle training.
+What's popular among young people these days?
+What is popular among young people?
+Are you taking care of your health? I suggest you at least consider the balance of your diet.
+Are you taking care of your health? We recommend that you think carefully about just how balanced your diet is!
+I'm sure you have plans to play after you get out of the hospital, but please refrain from any strenuous activity.
+I'm sure you've made plans to play after you leave the hospital, but please refrain from strenuous exercise.
+The other day, you brought me some snacks, and they were delicious.
+The pastries you brought me the other day were so delicious!
+That would be lovely.
+Sorry, I don't understand either...
+Haha... I'm biased towards things I like. I'll try to be careful.
+I mean... I'm biased towards things I like. I'll try to be careful.
+Of course I understand. And I don't want to be readmitted to the hospital right after being discharged.
+Of course I understand. I don't want to be readmitted to the hospital right after being discharged...
+Really? That's good to know. I'll bring it back some other time.
+Which do you prefer, bread or rice?
+Which do you prefer, bread or rice?
+Do you ever think about the good old days?
+Do you ever think about the good old days?
+Are you getting your daily exercise?
+Do you exercise daily?
+You received flowers as a sympathy gift, but did you look up the language of flowers?
+You received flowers as a sympathy gift, but did you look up the language of flowers?
+Sales is a job where personal appearance is important. After all, do you like to dress up?
+Sales is a job where personal appearance is important, and do you like to dress up?
+That's a tough question... Honestly, I like them both!
+I understand a little. It's not that I'm dissatisfied with the present... But... I suddenly feel nostalgic.
+I take the stairs as much as I can... Well, that's about all I can do.
+I try to take the stairs as much as possible. Well, I don't have the opportunity to do so, but...
+Since I got it all the way, I did my research. As I recall... It was hope.
+Since I had received it, I looked it up. I believe... Hope is the language of flowers.
+Yes, I like it. At first it was for work, but before I knew it, I became obsessed with it... Haha.
+Yes, I like it. At first it was for work, but before I knew it, I became obsessed...
+I try not to be left behind by the times, but... It's difficult.
+I'm trying to keep up with the times, but... It's not easy.
+Are you exercising? I suggest you do.
+Are you exercising? You should be doing it right.
+I often take a walk for a change. Do you have such a way to refresh yourself?
+I often take a walk for a change of pace. Do you have such a way to change your mood?
+I suggest you get a good set of bedding. The better you sleep, the healthier you will be.
+You should have good bedding. Because the better you sleep, the healthier you will be.
+You're in sales, so you probably get turned down a lot, right? How do you change your mind in those situations?
+Since you are in sales, you often get turned down, don't you? How do you refresh yourself at those times?
+I understand a little... Just when you think it's popular, it quickly goes out of style... Things change at a dizzying pace.
+I'm trying to be mindful of this... But I'll work on it some more.
+Listening to my favorite music. After all, it raises my spirits.
+It is to listen to music that you like. Just listening to music gets me excited.
+I guess bedding is important. I'll look into it more carefully next time.
+I take it for granted that I'll be rejected, so I don't really have much of a chance to make a dent in the first place.
+I think it's normal to be turned down, so I don't really get depressed.
+Wanna go to a restaurant?
+How about a meal at a restaurant?
+How about a cup of tea at the café?
+Would you like to go to a cafe with me?
+Would you like to go to the park with me?
+Why don't we relax in the park?
+Can you come over here for a minute?
+Thank you. That's very helpful.
+... Oh, okay. No, it's okay if you're busy.
+Sorry, can you come over right now?
+I'm sorry. Thanks for the help.
+... You can't do it, can you? Then I don't have a choice.
+Sorry, I just need to check something.
+I've got some errands to run...
+I need to see you and talk to you about something, okay?
+Thanks for the help. I'll see you later.
+How are you feeling? Are you feeling any better?
+I can examine your body in detail if you like.
+If you like, I can examine your body in detail.
+Are you sure? Then I'll ask you to do it.
+No... I'll pass.
+Um... Well, since you're here, I'd appreciate it.
+I appreciate the sentiment, but... No, thank you.
+Have you been feeling sick lately?
+I'm just a little stiff in the shoulders, no problems.
+No... I don't think there's anything wrong with that.
+Can I have a word?
+May I have a moment?
+Do you have time now?
+Are you okay now?
+Can we have a little chat?
+What do you think? Would you like to have a long chat with me?
+Would you like to go to a hotel with me?
+What do you think? Would you like to go with me to the hotel?
+Would you like to walk with me to the bathroom?
+I'm going to the bathroom... Would you mind following me?
+I'm in the bathroom... Can you come over?
+Then I'll be waiting for you.
+... I'm sorry to hear that.
+Would you mind following me for a minute?
+It's a tough job because you have to deal with a variety of patients.
+It's a tough job, because you have to deal with a variety of patients.
+Nursing is a very responsible job!
+Nursing is a very responsible job!
+What do you do for your health?
+When can I leave the hospital?
+What kind of insurance is popular?
+What kind of insurance is popular?
+That's not true. It is a very rewarding job!
+Yes... It's a lot of work, but it's a very rewarding job.
+Anyway, you have to avoid stress. I know it's hard, but it's the best thing to do.
+In any case, don't stress. It's hard to do, but it works.
+I'm hoping to be discharged from the hospital soon... But I haven't worked out the details yet.
+I'm hoping to be discharged from the hospital in the near future... But I haven't worked out the details yet.
+Whole life medical insurance is persistently popular!
+You need to be gentle with your patients, so they're more likely to confess to you.
+You need to be gentle with your patients, so you're likely to get a lot of confessions.
+Well... It's something I didn't want to say to the doctor directly...
+It was hard to tell the doctor directly...
+I wish I had been born with a stronger body.
+Business after leaving the hospital sounds like a lot of work!
+Sounds like a lot of work after leaving the hospital...
+Insurance sales may seem daunting, but how do you really feel about it?
+I have an image that insurance sales is tough, but how is it really?
+That's... No comment, please.
+I understand... Thanks for passing it along.
+You can still build a healthy body. Don't give up.
+You can still build a healthy body. Don't give up!
+Frankly, it's a problem I'd rather turn away from...
+Frankly, it's a problem I'd rather turn away from...
+I never thought sales was particularly difficult.
+What is the most important skill for a nurse?
+What is the most important skill for a nurse?
+Do nurses get proper breaks?
+Are nurses getting proper rest?
+After all, don't doctors catch colds?
+Isn't it depressing to be in the hospital?
+Is it still a predominantly female position?
+Is it still a predominantly female occupation?
+I don't think it is classified as a skill, but the most important thing is physical strength. Also, perseverance is absolutely necessary.
+It's okay. I'm well rested.
+They're harder to pull off than others, but that doesn't mean they won't pull off at all.
+I'm less susceptible than others, but that doesn't mean I'm completely immune.
+I have never thought so. I'm spending my time as usual.
+I have never thought so. I'm going about my day as usual.
+Yes, we have a lot of women. We have a lot of women here.
+Do you have any hobbies or interests that were recommended to you by patients?
+Do you have any hobbies that were recommended to you by patients?
+My friend is studying for a certification as a hobby. Don't you think he is motivated?
+My friend is studying for a certification as a hobby. Don't you think he is motivated?
+Is there anything you eat for your health?
+Is there anything you eat for your health?
+Do you watch movies in theaters? Or do you watch movies through a video service?
+If you know of any good coffee shops, please let me know.
+If you know of any great coffee shops, could you please let me know?
+I've been interested in it... But I've never started.
+That's great. I wish I could learn from you.
+I often eat natto. It's just plain delicious.
+I often eat natto. It's usually delicious.
+I'd like to enjoy the acoustics, so I'll see it in a movie theater.
+I often see them in the movie theater because I want to enjoy the acoustics.
+We recommend the café near the next station, which has a good selection of snacks!
+After all, isn't it the most fun to play with friends from school?
+Isn't it the most fun to hang out with friends from your school days?
+What is the best thing you have eaten recently?
+Doctors seem to be very rich, and they seem to spend a lot of money on their hobbies.
+Doctors seem to be rich people, and I have an image that they spend a lot of money on their hobbies.
+Is there anything you do to take care of your health?
+If you were to travel, where would you like to go?
+I understand very well. We've known each other for a long time.
+Yes... I guess it's a seasonal sweet bought at a convenience store.
+That's prejudice... I can't say I'm biased. Some doctors do.
+That's prejudice... I can't say that. Some doctors do.
+Well... Nothing in particular. But I'll try to be more considerate from now on.
+That's... Nothing in particular. But I'll try to be considerate from now on.
+There are many places I would like to visit... For now, I want to go to the hot springs!
+Do you think it's true what they say, that having a pet delays marriage?
+I often hear that owning a pet delays marriage... Do you think it's true?
+Actually, I'm a good singer.
+Actually, I am a good singer.
+Do you refrain from drinking alcohol for your health?
+Do they cut back on alcohol for health reasons?
+What fruits were you happy to receive as a sympathy gift?
+Have you ever had a customer get so excited about a hobby that you couldn't talk about work?
+Hmmm... You may have a point... But I think sometimes pets are the reason we meet.
+I see. I envy you because I'm not the best at it.
+They say a drink is the best of all medicines, right? Hehehe... I won't hold back.
+They say that alcohol is the best of all medicines, right? I won't refrain from it.
+They say alcohol is the best of all medicines, right? Even doctors don't refrain from it.
+Pears. They were fresh and tasty even when I didn't have much of an appetite!
+There have been a few times I'm ashamed to admit... But I believe it was the start of a relationship that helped me build trust, so I have no regrets!
+Would you like to have dinner at a restaurant?
+Would you like to go to a cafe with me?
+If you like, we can take a break at a cafe.
+Could you come over here for a minute?
+Impossible... Then I don't have a choice.
+Excuse me, could you come over here?
+I'm glad you're coming.
+... You can't come, can you? Oh, don't worry about it.
+Excuse me, I have a quick question...
+I just want to make sure...
+Sorry for the suddenness, can we meet now?
+Thank you very much. Well, I'll see you later.
+Now... Do you have time?
+Now... Are you okay?
+I'd like to take the time to talk to you... How about it?
+I have something I want to talk to you about, could you please listen?
+Why don't you and I... Go to a hotel?
+Would you like to go to a hotel with me?
+Um... Would you like to go to the bathroom?
+If you don't mind... Would you two like to go to the bathroom?
+Can you please come to the restroom?
+I'll be waiting for you then.
+Uh... Would you mind following me?
+I want to stay in the hospital all the time because it's so comfortable... I don't have to go to work.
+Once I get out of the hospital, I'm going to start my work-intensive days all over again...
+Once I get out of the hospital, I'm going to start working all over again...
+When can I expect to be discharged from the hospital?
+Well... When can we expect you to be discharged from the hospital?
+You often come to the hospital. What is wrong with you?
+It just occurred to me, can you get insurance while in the hospital?
+It's... Not a good idea to talk like that anymore.
+Ah... Good luck with that!
+I'll need to keep an eye on things a little longer, so I can't set a date right away.
+We need to keep an eye on things a little longer, so I can't set a date right away.
+My body hasn't always been strong... I have a lot of problems in various parts of my body.
+Basically, you cannot subscribe. Even if you could, you would not be able to use it immediately.
+I'm sorry to be so selfish about that... But could you please get me a more comfortable bed?
+I'm sorry to be so selfish... But it would be nice if you could provide a more comfortable bed for us to sleep on.
+It sounds like a lot of work for a nurse with a lot of things to do.
+It sounds like you have a lot of work to do as a nurse.
+If only I didn't have to work, I would stay in the hospital all the time...
+The nurses at the clinic are so kind.
+This hospitalization made me realize how important insurance is... I'm glad I had it.
+Hmmm... I don't know if I can prepare... But I'll talk to my doctor about it.
+It's true that there are a lot of things to do, but if you keep... Going, you'll get used to it, so it's not that hard!
+If you think like that, you're really going to be in the hospital a long time, okay? If you're not willing to heal, you won't be able to heal anything.
+If you think like that, you will really prolong your hospital stay, okay? If you don't want to heal, you won't be able to heal anything...
+I understand. They've been so kind to me, and I'm always grateful.
+I'm glad I could be of help. It's insurance to be prepared for what if.
+Honestly, are there any patients you don't like or anything?
+I mean... Do you have any patients that you have a hard time with?
+What is the most important work tool for a nurse?
+What is the most important work tool for a nurse?
+Thank you for always being so accommodating. Thanks to your doctor, I am really doing better!
+Thank you for always being so accommodating. Thanks to your doctor, I really feel better!
+Do you still come to the clinic because of its reputation?
+Are they still coming to the clinic because of its reputation?
+I know this is hard to ask, but... Do you ever skip work?
+I hate to ask this, but... Do you ever skip work?
+I've never had a hard time with patients.
+All of them are indispensable, but if I had to pick one, it would be the pen...
+Haha, I'm glad to hear you say that.
+Hehe, I am most happy to hear you say so!
+I am so glad to hear you say so!
+Yes, I trust the doctor.
+No, we don't. And if I slack off, I get paid less for it.
+No, we don't. If you skip work, your salary will be reduced accordingly.
+It's a selfish image, but I have the impression that nurses seem to be good at knitting and such.
+It's a selfish image, but I have the impression that nurses seem to be good at knitting and such.
+When I get out of the hospital, I'm planning to go on a trip with a friend.
+Do health foods really work?
+I've been trying to get stronger, but I just can't seem to find the motivation...
+Do you have a morning routine?
+Do you have a morning routine?
+Is it because you seem to be good with your hands? Hehe, that's kind of an interesting image.
+Traveling, that's great. If I have something to look forward to after I leave the hospital, I'll do my best.
+Some are overhyped, but there are some that are very effective. It's hard to tell the difference without knowledge, though.
+Some of them are overhyped, but they're also very effective. It's hard to tell the difference without knowledge...
+I know exactly what you mean... You start doing muscle training, but you don't stick with it for very long.
+It's drinking coffee. I feel like I wake up refreshed.
+What do you think is a popular hobby?
+I'm going to ask you straight, what do you think is a popular hobby?
+Do you have a favorite season?
+Do you have a favorite season?
+After all, if you have a lot of muscle, are you less likely to get sick?
+After all, is it hard to get sick if you have a lot of muscle?
+Did you play any sports during your school years?
+They say yogurt is better to eat at night.
+Seems like yogurt is better to eat at night.
+Hmmm... I don't know, but I think a practical hobby is a good impression, don't you?
+Spring, right? It's the season when many new things begin...
+Oh, yes. I suggest you work out in moderation for your health.
+Yes, I do. I recommend working out in moderation for your health.
+Well, not particularly. I just hung out with my friends.
+No, not really... Just hanging out with friends.
+I see. I always ate them in the morning.
+I've been into sake lately.
+I've been into sake lately.
+To be honest, I don't really understand artistic or other highbrow interests...
+To be honest, I don't really understand the artistic or other lofty taste...
+What is a healthy drink?
+I would like to know what drinks are good for my health.
+Nothing tastes better than a drink after work, don't you think?
+What is the difference between somen and hiyamugi?
+What is the difference between somen and hiyamugi?
+That sounds wonderful. If you have any recommendations for drinks, I'd love to hear them!
+Everyone has their own opinion, so you don't have to... Force yourself to understand it!
+It's a common but green tea. It's so good, I drink it every day.
+It may be common, but it is green tea. It is delicious and I drink it every day!
+I know exactly what you mean. It's like you're working hard for that one drink.
+I know exactly what you mean. It's like you're working hard for that one drink.
+What is it? I don't know, I've never looked it up.
+If you like, we can go to a restaurant.
+Well, you know, why don't we go to a cafe?
+How about a cafe or a cup of tea?
+Why don't you two go to the park?
+I need you to come over here for a minute...
+Uh... No, it's okay if it's difficult.
+Excuse me, could you come here for a minute?
+I see you're coming. Thank you very much.
+Not right away... I understand.
+Oh, excuse me. I just want to make sure...
+Are you okay now? I just wanted to ask you a few questions...
+I would like to talk to you directly. Do you have a few minutes?
+Thank you very much. I'll be right there.
+Um...
+Do you have... Time?
+I'd like to have a relaxed chat.
+Would you like to chat a lot with me?
+Would you like to go to a hotel with me?
+... Would you like to go to the restroom?
+Would you like to go to... The bathroom for a minute?
+Could you please come to the restroom for a minute?
+Then I'll be waiting.
+Uh... Would you mind following me?
+If there's anything you don't understand, feel free to ask me.
+If you have any questions, feel free to ask.
+You're going to have to focus more on the lecture to learn it.
+You'll have to take more focused lectures to learn more.
+If you're going for that school, you're going to have to work a little harder to get there.
+If you're going for that school, you're going to have to work a little harder to get there.
+Thanks for all your hard work. You've been a real help.
+Thanks for all your hard work. You've helped me a lot.
+I would like to be shown any new material.
+I'd love to see any new material you have to show me.
+Thank you. I'll let you know as soon as I hear anything.
+I know, but... It's hard.
+I see... I'm trying in my own way, but I'll try harder.
+I see... I'm trying in my own way, but I'll try to do more.
+Don't worry about it. This is my job.
+Don't worry about it. This is my job.
+I understand. I'll bring you a batch of new products next time.
+All right. I'll bring you a batch of new products next time.
+Anyway, you just have to memorize the formula, and once you do that, you can apply it.
+Anyway, you just have to learn the formulas, and once you do that, all you have to do is apply them.
+If you're going to take notes, you might want to be a little more organized.
+If you're going to take notes, you might want to be a little more organized.
+The results of the mock exam the other day... Not bad, but close.
+The results of the mock exam the other day... It wasn't bad, but we're almost there.
+You're always working late, aren't you? I hope you don't get sick.
+You're always working late, aren't you? I hope you don't get sick.
+Do you have any good classical teaching materials?
+Do you have any good classical teaching materials?
+It's a lot of work, but I'll give it a shot.
+... I'll give it a try. Maybe I should do more color coding or something.
+Almost there... Okay, I'll try to keep it up.
+Don't worry. You'll be well rested when you get home.
+I'll be fine. I'll be well rested when I get home.
+For classics, I recommend this reference book.
+If it's classics, I recommend this reference book.
+Sometimes it's easier to understand something you're not good at if you look at it from a different perspective.
+Even if you're not good at something, sometimes it's easier to understand if you change your perspective.
+You could go a little higher if you wanted to.
+I think we could go a little higher than that if we wanted to.
+I'll see to it that you get it right after hours, so feel free to come.
+I'll take good care of you even after hours, so feel free to come by.
+It makes me feel safe to work here, thank you.
+I got good reviews on the material the other day.
+I got good reviews on your educational materials the other day.
+I know what you're saying. But it's hard to do that...
+I don't know... Maybe I don't know myself.
+Thanks. If I have any questions, I'll be there to listen.
+Thanks. If I have any questions, I'll be sure to ask.
+When you say so, it makes our work worthwhile.
+It makes my work worthwhile when you say so.
+That's good to know.
+That's good to know.
+Do you have any hobbies?
+Do you have any hobbies?
+Do you watch movies and stuff?
+Do you watch movies or something?
+Do you play any sports?
+Do you play any sports?
+Do you have any favorite sports?
+Do you have any favorite sports?
+What are your hobbies?
+What are your hobbies?
+Karaoke, I guess. Just singing is fun.
+I don't watch comedies as often as I should, but I do watch comedies. I like them because they're funny.
+I play e-sports. I'm most into it now.
+If it's e-sports, I'm doing it.
+Sports... Watching and playing baseball.
+Sports... Watching and playing baseball, I guess.
+Mainly reading. Sometimes I read three books in one day.
+Reading. I read about three books a day.
+Let me know if you find any good snacks.
+Let me know if you have any good snacks.
+What kind of comics are you reading?
+What kind of comics do you read?
+What book are you reading?
+What kind of books are you reading?
+What kind of books do you read?
+What kind of books do you read?
+Do you watch movies?
+Do you watch movies?
+The gummy bears that were recently released were delicious.
+I read shoujo manga, shounen manga, you name it.
+Mostly manga, but I read novels occasionally.
+I read mostly comics, but occasionally I read novels.
+You've read everything that's won literary awards lately.
+I've read everything that's won literary awards lately.
+I often go to see movies that I enjoyed the original.
+I often go to see movies that I enjoyed the original.
+What kind of music are you listening to?
+What kind of music do you listen to?
+Is there anything you're into?
+Is there anything you're into?
+What kind of games are popular now?
+What kind of games are popular now?
+Where would you go for fun?
+Where would you go for fun?
+What books do you read?
+I listen to all the popular songs.
+Do you read a lot of manga?
+That's a game. People are playing them on their phones and on their computers.
+I guess what's popular is gaming. People are playing them on their phones and on their computers.
+I'd go to the concert hall and watch the classics.
+Maybe go to a concert hall and watch classical music.
+I've read every recommendation from the bookstore staff.
+I've read every recommendation from the bookstore staff.
+Why don't you two go to a restaurant?
+How about dinner at a restaurant?
+How about a restaurant together?
+Wanna go to a café?
+Would you like to go to a cafe?
+How about a cup of tea at a café?
+Would you like to go to the park with me?
+Why don't we go to the park?
+Why don't you go to the park and enjoy the distraction?
+Can you come over here for a minute?
+Could you come this way for a moment?
+What, you can't?
+If you can't, no problem.
+Sorry, can you come now?
+Excuse me, can you come over here?
+You're coming. Good.
+Well... No, if you can't, that's okay.
+Well... Sorry to hear that, but it can't be helped.
+I need to check something...
+Thanks for the help. Well, I'll see you later.
+I'm sorry, okay?
+Excuse me, may I?
+Is your time all right?
+Are you okay now?
+Can't we just talk for a while?
+Why don't we have a long chat?
+Will you just stay with me for a minute?
+Would you mind joining us for a moment?
+Why don't you two go to a hotel?
+Would you like to go to a hotel with us?
+Wanna go to the bathroom with me?
+How about we go to the bathroom together?
+Would you like to walk with me to the restroom?
+Can you come to the bathroom for a minute?
+I'll wait for you then.
+... I'm sorry to hear that.
+I'll be waiting for you then.
+Where did you get that reference book?
+Where did you get that reference book?
+It's hard to get good grades.
+It's hard to get good grades...
+Wasn't the mock exam the other day difficult?
+The upstairs toilet, the water doesn't flow...
+The toilet upstairs, the water doesn't seem to be running properly...
+I need an easy to understand reference book...
+I wish I had an easy-to-understand reference book.
+It's a bookstore near the station. They have a good selection there, so you should go there.
+I'm... Still trying to do my best at this.
+Yeah, maybe the bar was a little high.
+Yes, maybe the bar was a little high.
+Okay, I'll check it out.
+All right, I'll check it out.
+If so, I recommend this reference book!
+If that's what you're looking for, I recommend this reference book.
+I took a practice exam the other day, and the results were bad...
+I took a mock exam the other day and the results were bad...
+Are you doing your homework?
+Are you sure you've done your homework?
+Is there a formula that I can absolutely pass the exam if I just remember this?
+Is there any formula that if I just remember this one, I will definitely pass the exam?
+Looks like the lock on the third floor window is broken.
+Looks like the lock on the third floor window is broken.
+Is there some kind of vocabulary book that would make it easier to remember?
+Is there some kind of vocabulary book that would make it easier to remember?
+Review your mistakes over and over, and you'll get a better score next time.
+I'm working on it.
+There's no such thing. Take your studies seriously.
+There's no such thing. You have to study seriously.
+Well... We'll call the contractor to take care of it.
+I see... I'll call the contractor.
+For English vocabulary, this vocabulary book is easy to remember!
+For English vocabulary, this vocabulary book is easy to remember.
+Do you know any good English reference books?
+Do you know of any good English reference books?
+I don't understand English at all...
+I don't understand English at all...
+Should I remember difficult-to-read kanji?
+Should I remember difficult-to-read kanji?
+My locker, the door is rattling...
+My locker, the door is starting to rattle...
+Don't they sell some kind of machine that improves memory?
+Do you sell a machine that improves memory or something?
+I would recommend the one from this publisher.
+I'm rather good at English, so maybe I can't relate to that feeling... Sorry!
+I suppose it wouldn't hurt to have the knowledge.
+I guess it wouldn't hurt to have it as knowledge.
+Isn't that because you handle them roughly? You need to be more careful.
+Isn't that because you treat them roughly? You should be more careful.
+Unfortunately, we do not offer such products.
+Too bad we don't carry those products...
+Karaoke is good after all.
+Karaoke is good after all.
+Do you play sports or something?
+Do you play sports or something?
+What are you doing to pass the time?
+What are you doing to pass the time?
+What do you do on your days off?
+Do you have any hobbies?
+Yeah, it's great. I forget everything when I sing.
+Sometimes I do. I like to move my body.
+I spend a lot of time on my phone... But lately I've been trying to read a book.
+I spend a lot of time on my phone... But lately I've been trying to read a book.
+They're listening to records, they're going to concerts.
+I listen to records, I go to concerts.
+I like to read books. I lose track of time.
+I like to read books. I lose track of time when I read.
+There's a game I'm super into right now, want to give it a try?
+There's a game I'm super into right now... Want to give it a try?
+What kind of things do you like to do?
+What do you like to do?
+Do you read a lot of comics or something?
+Do you read a lot of comics?
+Do you watch movies or something?
+What kind of food do you like?
+What kind of food do you like?
+Ah, this game. I saw the ad and thought it looked interesting.
+Reading manga. I read quite a lot of things.
+I'm reading. I'm learning a lot from comics, in a way.
+I'm reading. Comics are educational in a way.
+I'll look at it once in a while. Or the ones that liked the original novel.
+Sometimes I watch them. Or the ones I liked the original novel.
+I like bread. There are so many good breads these days.
+I like bread. There are so many good breads these days.
+Do you go out anywhere on your days off?
+Do you go out somewhere on your days off?
+Do you read books or something?
+Do you read books or something?
+Do you watch TV or something?
+Do you watch TV?
+There's a drama I've been into lately.
+There's a drama I've been into lately.
+I have an interesting FPS game, are you interested?
+They go shopping in front of the station, they go to karaoke.
+I sometimes read novels, too. They are different from manga in that they are more interesting.
+I hardly ever watch TV. I just watch the news once in a while.
+I hardly ever watch TV. I just watch the news once in a while.
+That's moderately interesting stuff. I'll have a look next time.
+That's a moderately interesting read. I'll have a look next time.
+I'm not really familiar with that genre, but it sounds like an interesting game.
+I'm not really familiar with that genre, but it sounds like an interesting game.
+Let's go to a restaurant, just the two of us.
+Let's go to a cafe together.
+Let's go to the park together.
+Why don't we go to the park together?
+Come over here for a minute.
+Thank you.
+I see... You're busy.
+Sorry. Come here.
+Oh, you're coming.
+I guess it's impossible... Then I guess it can't be helped.
+Let me ask you something...
+I just wanted to make a quick reference...
+I need to talk to you. Can we meet now?
+I guess that's okay. Well, I'll be on my way.
+Hey.
+Now... Are you okay?
+I need to talk to you. Will you come with me?
+I'd like to talk to you about a few things... Okay?
+Hey, you want to go to a hotel with me?
+Why don't you come with me to the bathroom?
+Would you mind following me to the bathroom?
+I'm in the bathroom... Can you come over?
+Are you sure? Then I'll wait for you.
+You'd better learn while you're at it.
+You'd better learn while you're at it.
+Just don't get on the stair railings.
+Don't get on the stair railing.
+Thanks for all your lectures.
+Thanks for all your lectures.
+Are you studying properly?
+Are you studying hard?
+You've got a lot of catalogs and stuff to pack, don't you?
+You must be carrying a lot of catalogs and other stuff.
+Thanks for the advice. I'll give it my best shot.
+I wouldn't get on that thing.
+Thanks. It's pretty exhausting.
+Thanks. It's quite exhausting...
+I'm doing the best I can.
+I'm doing my best, in my own way.
+It's easy to use a smartphone these days.
+It's easier these days because you can just use your phone.
+... You've got to study hard, even in subjects you're not good at.
+Study hard even in subjects you are not good at!
+Don't be too rough with the locker.
+Don't be too rough with the locker.
+I'll dispose of the damaged materials over here.
+I'll dispose of the damaged materials here.
+I'll throw away all the umbrellas you leave in the umbrella stand.
+I'll throw away all the umbrellas left in the umbrella stand.
+Do you go to different places to do business?
+Do you go on sales trips to different places?
+I knew it... I'll try to do it my way.
+I take good care of my locker.
+Thanks for the help. I'll be looking forward to it.
+Thanks for the help. Nice to meet you.
+I don't keep an umbrella there, so I'm good.
+I don't have an umbrella there, so I'm good.
+Yes, we do. We're going around the country.
+Yeah, that's right. We're going around a lot of places.
+Note the broken doorknob in the upstairs classroom.
+The doorknob for the upstairs classroom is broken, so be careful.
+You're supposed to open and close the windows quietly.
+Open and close the windows quietly.
+It must be hard teaching students to learn, right?
+It must be hard teaching students to learn, isn't it?
+Handle the trash cans with a little more care.
+You have to be a little more careful with the trash cans.
+I hope they sell a lot of educational materials...
+I hope you sell a lot of educational materials.
+Thanks. I'll try to stay away from there.
+Yeah, okay.
+No, teaching is surprisingly fun. And it's nice to see them grow day by day.
+No, teaching is surprisingly fun. And it's nice to see them grow day by day.
+All right, I'll be careful from now on.
+Okay, I'll be careful from now on.
+Thank you. I'm glad you do.
+Thank you. I'm glad you did.
+Do you get a proper break on your days off?
+Do you get a proper break on your days off?
+Where do you buy your clothes?
+Where do you buy your clothes?
+Any game recommendations?
+If you have any game recommendations, I'd love to hear them.
+I'm resting well, I'm fine. Thanks for worrying about me.
+I guess I read a lot of manga. They can be surprisingly useful for studying.
+I've been buying a lot of it at mass merchandisers. They're cheap and good quality, so I use them a lot.
+I buy most of my stuff at mass merchandisers. They're cheap and good quality, so I use them a lot.
+There's an FPS for beginners, you should definitely try that.
+There's an FPS for beginners that I'd love to see you try.
+Mostly reading or visiting bookstores.
+Basically reading or visiting bookstores.
+You should have a hobby, whatever it is.
+You should have a hobby, whatever it is.
+You'll learn more about movies with subtitles than with dubbing.
+You'll learn more about movies with subtitles than with dubbing.
+What's the latest book you're into?
+What books have you been into lately?
+Is there anything you like to do?
+Is there anything you like to do?
+Do you like sports?
+Do you like sports?
+I have a relatively wide variety of hobbies, so I'm fine.
+I see... Then I'll watch it with subtitles next time.
+It's a novel based on a popular drama. I've always been curious about the rest of the story.
+It's a novel based on a popular drama. I've been anxious to read the rest of it.
+Games. If it's a game, I can do it without falling asleep.
+Games. If it's a game, I can do it without sleeping.
+I see it occasionally. But I'm not that interested in it.
+I do look at it from time to time. But I don't think I'm that interested.
+You've got to play and have fun as much as you can.
+Have fun and play as much as you can.
+Sometimes you just gotta play and not think.
+Sometimes it's good to just play and not think about it.
+Are you out on the town or something?
+Do you go out on the town?
+Where do you often go to play?
+Where do you often go for fun?
+Is there anywhere you'd like to travel?
+Is there anywhere you would like to travel?
+Yes, I do. Maybe next time I'll play all day.
+Maybe it's not a bad idea to play it that way.
+Oh. You're eating and shopping a lot.
+Yeah. We're often eating, shopping, stuff like that.
+It depends on how I'm feeling that day. I don't have a particular place in mind.
+I guess it depends on my mood that day. I don't have a specific place in mind.
+I'd love to go to a quiet plateau and read a good book!
+Maybe I'd like to go to a quiet plateau and read a book at leisure.
+How about we go to a restaurant for dinner?
+I'm thinking of going to a café... Would you like to join me?
+How about we go to the park to get away from the distractions?
+Can you come over here for a minute?
+Be saved
+... Impossible?
+Can you come over here?
+Waiting.
+... I see. If you're busy, I don't blame you.
+Sorry, I just need to check a few things...
+Let me ask you this...
+Can we meet outside now?
+That's all right. Then let's head this way, too.
+... Okay?
+... Do you have time?
+... If you have time, would you care to join us for a chat?
+I have a lot to tell you... Okay?
+Your expression is stiff. Practice smiling hard. You'll make money if you smile, so put the most effort into it.
+Your expression is stiff. Practice smiling. Smiling is important for idols.
+Your expression is stiff. Please practice smiling. Idols can get by if they smile.
+I'll use it for the next merchandise, so please draw some animals and sign it appropriately. It doesn't have to be good, so please do it as soon as possible.
+Can you draw a picture of the animal and sign it for our next merchandise? It doesn't have to be very good.
+We are very grateful to you for renting us the room at a lower price than usual... We really appreciate it!
+We have been able to rent the room at a lower price than usual... And it has really helped us out a lot!
+Thank you so much for coming to our show so many times!
+Thank you so much for coming to our show so many times!
+Is there any job that our idols can do?
+I'm looking for a job that our idol can do.
+Yes, sir. I'll practice hard.
+... If it's appropriate, I'll write it down in due course.
+What? Don't worry about it. It's what I like to do.
+I hope you don't mind. It's what I like to do.
+I'm just supporting you because I like you... It's not like I'm being thanked...
+You don't have to thank me, because I like and support you!
+Work, huh? Well, I'll see what I can do.
+Is it work... I'll see if I can find something for you.
+You haven't reached your quota for merchandise sales. You need to get more serious about flirtation!
+Motivation, not enough? You've got to do better than that.
+You are not putting in the work. You are a can-do person, so keep up the good work!
+I'd like to do a small live tour someday. If you have a good venue, could you recommend one?
+I'd like to do a little live tour someday. If you have any good venues, could you recommend some?
+The support of her fans is her strength, so please keep up the good work!
+The support of our fans is the strength of that child, so please keep up the good work!
+I'm trying to think of an event that will attract people, but I can't think of anything... Any advice?
+I'm trying to think of an event that will bring people in, but I can't think of anything... Any advice?
+Ha, yes... I'll try somehow!
+I'm trying my best in my own way, but... It wasn't enough. I'll try harder.
+Then how about some of the other live music venues I have? I can try some of my contacts.
+Then what about the other live music venues I have? I'll check with some people I know.
+Yes, yes... I will continue to support you... Always...
+Yes, I will continue to support you all the way.
+No, no, no, it's your job to figure it out~? You're not supposed to depend on me.
+It's your job to think about that... And to be honest, I'm a bit confused when you ask me to do that.
+You don't have the money to hire an instructor all the time, so make sure you train on your own.
+You don't have the money to ask your instructor to give you lessons all the time, so please practice on your own without fail!
+They'll support you as long as you pretend to be desperate, so keep up appearances.
+Working hard and earnestly attracts people, so please do your best!
+If you pretend to be desperate, they will support you, so keep up the outward appearance.
+How profitable is real estate? I'm just curious...
+How profitable is real estate? I'm a little curious.
+Thank you so much for always purchasing our goods!
+Thank you so much for always purchasing our goods!
+Are CD sales still declining year after year?
+Are CD sales still declining year after year?
+Yes, sir. I will practice singing and dancing well.
+I understand. I'll just pretend I'm trying.
+You don't think it's going to be easy, do you? It's not that easy. There are a lot of things to think about.
+Do you think it's easy to do? Not so easy, because there are a lot of things you need to think about.
+No, no... I'm just buying them because I want them...
+No, I'm just buying it because I want it.
+Sadly... We're working on more distribution services too.
+Sadly, yes... We're in a place now where we're focusing more on distribution services.
+If you're going to hang out with friends, make it karaoke. You'll improve your singing a little.
+If you are going out with friends, karaoke is a great place to hang out. The more you sing, the better you get.
+You should be at a fancy cafe a few times a week, taking pictures for social media. Expenses? It's not a job, you're on your own.
+Take photos for social networking several times a week at a trendy cafe. Expenses? Sorry, that's difficult.
+I would like to know which idols and artists you are currently promoting.
+We would like to know which idols and artists you are currently promoting.
+Do you ever go to other idols' gigs?
+I'm a personal fan of the band, which made its major debut last year.
+I'm a personal fan of the band, which made its major debut last year.
+Yes, I'll go to karaoke next time.
+... I like cafes, and I'll go there as I see fit.
+There's no one in particular... Not at the moment.
+I don't have a girl I'm interested in... Not really at the moment.
+No... The other girls... Are out of sight...
+No, I will not go. Because that would be cheating.
+Wow, what a band! I'm a little curious.
+What band is this? I'm a little curious.
+Whether it's food, clothes, or music, keep up with what's trendy. If you get left behind, you're finished.
+Be sure to check out the trends in food, fashion, and music. If you get left behind, you're in trouble.
+You should watch and study other idols' live shows. It's best to go there, but you can also stream them online.
+Please watch and study other idols' live shows. It is best to go there, but you can also stream it online!
+I was told by an acquaintance that the matcha sweets here are bittersweet and delicious!
+I was told by an acquaintance that the matcha sweets here are bittersweet and delicious!
+You were standing in line at that ramen shop over there the other day - right? Is it a good restaurant?
+You were standing in line at that ramen shop over there the other day, weren't you? Is it a good restaurant?
+Did you know that the second branch of a reputable curry restaurant opened in the basement of the station~?
+Did you know that a second branch of a reputable curry restaurant has opened in the basement of the station?
+Yes, I will always check the trends on social networking sites.
+... I'll check it out when I have time.
+Oh, I see. I'll try to buy some next time.
+I see. I'll buy it next time.
+Uh... Yes. Well... The soup is thick... And I like it...
+Yes, it is a delicious restaurant. Especially the soup is so rich.
+If so, I went there the other day! It was just as good as it was reputed to be, and I ate way too much!
+Oh, I went there the other day. It was as good as it was reputed to be, and I ate way too much!
+You should have hobbies that seem to be well received by geeks in order to talk with geeks. Anime, manga, whatever.
+Please be interested in the topic of anime and manga in order to match the conversation with the customer!
+A homebody is a popular guy. You should be able to cook to win the hearts of nerds.
+Homey people are attractive. Practice cooking to win the hearts of your fans!
+You look stylish today. Are you particular about fashion brands?
+You look stylish today. Are you still particular about fashion brands?
+Are you interested in perfume? The better you groom yourself, the more your idol will like you~!
+Are you interested in perfume? The better you groom yourself, the more your idol will like you!
+I'd like to camp alone if I have the chance. Don't you think it would be fun?
+I'd like to camp alone if I get the chance. Wouldn't that be fun?
+Will check out just what is in vogue!
+Cooking... I'll try to do my best.
+Well, nothing in particular. I wear something proper for formal occasions, but other than that, it's appropriate.
+I am not particularly particular. I wear something proper for formal occasions, but other than that, it is appropriate.
+Oh, really? Oh, but... If I have money to buy perfume... I'd rather buy goods...
+Really? Oh, but... If I have money to buy perfume, I'd rather buy goods with it!
+Well, isn't camping more fun when everyone is together? Well, but there are times when you want to have fun alone...
+Personally, I'm of the campers who want to enjoy camping with others... But camping alone sounds fun too!
+Why don't we go to a restaurant?
+Why don't we have dinner at a restaurant?
+Why don't we go to a café?
+Why don't you go to a cafe?
+I'm going to a café. Care to join me?
+Why don't we go to the park?
+Would you like to go to the park with us?
+Can we go to the park and talk?
+Would you like to have a quick chat in the park?
+Come over here for a minute.
+Could you come this way for a moment?
+Hurry up.
+Damn... You can't come?
+Uh... If it's too difficult, I don't blame you.
+Now get over here.
+Could you please come this way?
+Time is of the essence. Come as soon as possible, even a second.
+Damn... Bad timing on his part.
+Thank you.
+Excuse me, I would like to ask you...
+I'd just like to confirm something...
+Would you like to talk outside for a moment?
+I see that you are okay. I'll see you later.
+You can do it if you try. You can do it.
+You can do it if you try. Good luck!
+Yes, sir. Thank you!
+... I see. Thank you.
+Hard work never betrays a person. Don't forget that.
+Hard work never fails people. Remember that.
+Yes, sir. I will try harder.
+... I'll try to keep up the good work.
+You need to be a little more aware that you're being watched! You're not!
+You should be a little more aware that you're being watched.
+I'm sorry. I'll get my act together.
+... Sorry, I'll be careful.
+You've got to work harder! You're not motivated enough!
+Please take this seriously. You won't feel motivated.
+Sorry... I'll try harder.
+... I've been reflecting on it.
+Can't we just talk for a while?
+Would you like to have a long talk?
+... Would you care to join me for a moment?
+I'd like to talk to you about a lot of things... What do you think?
+Can we go to the hotel for a minute?
+Would you like to go to the hotel with me?
+Hey, why don't we go to a hotel?
+Why don't we go to the bathroom?
+Would you like to go to the restroom for a minute?
+I have to go to the bathroom... Will you accompany me?
+Come to the bathroom. I won't make it bad.
+Could you please come to the restroom?
+I'll be waiting.
+You're a bad boyfriend.
+I'm so happy to hear that. I'll be waiting for you.
+What is the hardest part of being an idol?
+What is the hardest part of being an idol?
+Why did you decide to become an idol?
+Why did you decide to become an idol?
+Are the tickets selling well?
+Are tickets selling well?
+What do you do when the day of work and the day of the gig fall on the same day?
+What do you do when your work and live dates conflict?
+Have you found any good artists lately?
+Have you found any good artists lately?
+I guess the hardest part for me is... The photo shoots. I have a hard time deciding what kind of pose I want every time!
+... I'm just doing it because I was invited to do it, and I don't have any particular motive.
+No problem at all. We are selling well.
+... It's not a problem at all. It's selling just fine.
+I'll take a paid holiday... And come back to cheer you on!
+I've applied for a paid day off and am going to the concert!
+It's hard to find them... Because anyone can distribute them on the Internet, it's like a jumble of jadeite...
+To be honest, it's a struggle... Everyone can distribute online, so it's taking me a long time just to check it out!
+Do you remember all the faces and names of your fans?
+Do you remember all the faces and names of your fans?
+Every song has a choreography, so it must be hard to remember.
+Every song has a choreography, so it's going to be hard to remember!
+Your idol seems to be growing and growing. I'm enjoying cheering you on too.
+Your idol is growing and growing. I'm enjoying cheering for them too.
+Isn't it hard to profess to be a fan of an idol?
+Isn't it hard to profess to be a fan of an idol?
+Music distribution is becoming the norm, but I'd rather buy the actual CDs!
+It is commonplace to distribute music, but I prefer to buy the actual CDs.
+Yes, of course. They are very important people who support me.
+... Honestly, the dance lessons are the hardest!
+Thank you! I think our idols will be very happy to hear that!
+Thank you very much. I'm glad to hear you say so, and I'm sure your idol will be happy to hear it.
+To be honest... I can't tell people... I only talk about it in online communities... And among fans...
+More and more people understand me, but there are some who look at me coldly... I can't say it out loud.
+We are so glad to hear you say that. For our part, we really appreciate it!
+I am glad to hear you say so. I, too, prefer CDs that can be touched rather than data!
+Is your dream still to be a top idol?
+Is your dream to be a top idol?
+Is it the photos that are the most popular merchandise?
+Is it the photos that are the most popular merchandise?
+We're growing better and better idols.
+Please keep raising wonderful idols!
+Do you put more effort into your work when you think it's for your idol?
+Do you put more effort into your work when you think it is for your idol?
+To be honest, is the music industry thriving today?
+Yes!!! I'm working hard every day towards that dream!
+It is the most popular, yes. Our regulars buy it every time.
+Yes, I will. I'll keep up the good work!
+Yes, sir. We will continue to do our best.
+Ha, yes... I feel like no matter how hard things get, I can overcome them...
+Yes. For the sake of my idols, I feel that I can overcome even the most painful things.
+The CD market is in a slump, but thankfully, live performances are doing well.
+The CD market is in a slump, but thankfully, live performances are doing well.
+I know you have a job where your throat is important in some way. I'll give you some of my recommended throat lozenges next time.
+Your throat is very important in your work, isn't it? I'll bring you some recommended throat lozenges next time.
+Do you often cook for yourself?
+Do you often cook for yourself?
+Are you a drinker? I have a wine recommendation.
+Do you like to drink? We have some wine recommendations.
+Are there any interests other than idols?
+Do you have any other interests besides idols?
+I recently remodeled the basement of my house and turned it into the wine cellar I've always wanted.
+We recently remodeled the basement of our house and turned it into the wine cellar I've always wanted.
+Thank you very much. I was just looking for it and it helps a lot!
+I almost always get delivery. It's much tastier than making it myself.
+Yes, I like drinking very much! I'm curious to know what kind of wine it is!
+Yes, I like drinking very much. I'm curious what kind of wine it is.
+Well... I like anime... I watch it a lot. Other than that... Not particularly interested.
+I like anime and watch it a lot. Other than that... Not that interested.
+That's great, I'd love to visit!
+That's great, I would love to visit!
+It's hard to keep up with the latest fads... What's popular now?
+It's hard to keep up with the fads... What are the current trends?
+Any recommendations for stretching? I've been a little out of shape lately, so I'm thinking of starting with some... Light exercise.
+Do you have any recommendations for stretching? I've been feeling a little under-exercised lately... And I'm thinking of starting with some light exercise.
+Are you interested in cars? If so, I'll show you my collection.
+Are you interested in cars? If so, I can show you my collection!
+Do you ride in cars? Cars are nice, especially sports cars, I spend a lot of time just looking at them.
+Do you drive a car? Having your own car is convenient in many ways!
+I recently started collecting vinyl records. They have a different appeal from CDs.
+I recently started collecting vinyl records. They have a different appeal from CDs.
+As for sweets, canulés are very popular nowadays. You can buy them at convenience stores, and there are many girls around me who like them.
+If that's the case, let me tell you about a video I watch a lot. It's only enough to give you a good workout.
+Oh, you're going to show us! I'm so happy to have this precious experience!
+Can you show us? I'm so glad to have this precious experience!
+I'm not interested in cars... Oh, but... I have a bit of a yearning for a painted car...
